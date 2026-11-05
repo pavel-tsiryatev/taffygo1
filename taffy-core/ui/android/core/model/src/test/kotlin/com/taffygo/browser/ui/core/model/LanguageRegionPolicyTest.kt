@@ -14,14 +14,14 @@ import org.junit.Test
 class LanguageRegionPolicyTest {
 
     @Test
-    fun `English Hindi and system are offered in every country`() {
+    fun `English Hindi Russian and system are offered in every country`() {
         listOf("IN", "in", "US", "JP", "", "IND", " IN ").forEach { regionCode ->
             assertEquals(
                 AppLanguage.entries,
                 LanguageRegionPolicy.availableLanguages(regionCode),
             )
             assertEquals(
-                listOf("en", "hi"),
+                listOf("en", "hi", "ru"),
                 LanguageRegionPolicy.availableLanguageTags(regionCode),
             )
             AppLanguage.entries.forEach { language ->
@@ -48,6 +48,10 @@ class LanguageRegionPolicyTest {
             AppLanguage.HINDI,
             LanguageRegionPolicy.coerce(AppLanguage.HINDI, "IN"),
         )
+        assertEquals(
+            AppLanguage.RUSSIAN,
+            LanguageRegionPolicy.coerce(AppLanguage.RUSSIAN, "IN"),
+        )
     }
 
     @Test
@@ -59,6 +63,14 @@ class LanguageRegionPolicyTest {
         assertEquals(
             AppLanguage.HINDI,
             LanguageRegionPolicy.resolvedLanguage(AppLanguage.SYSTEM, "HI"),
+        )
+        assertEquals(
+            AppLanguage.RUSSIAN,
+            LanguageRegionPolicy.resolvedLanguage(AppLanguage.SYSTEM, "ru-RU"),
+        )
+        assertEquals(
+            AppLanguage.RUSSIAN,
+            LanguageRegionPolicy.resolvedLanguage(AppLanguage.SYSTEM, "ru"),
         )
         assertEquals(
             AppLanguage.ENGLISH,
@@ -83,6 +95,10 @@ class LanguageRegionPolicyTest {
         assertEquals(
             AppLanguage.ENGLISH,
             LanguageRegionPolicy.resolvedLanguage(AppLanguage.ENGLISH, "hi-IN"),
+        )
+        assertEquals(
+            AppLanguage.RUSSIAN,
+            LanguageRegionPolicy.resolvedLanguage(AppLanguage.RUSSIAN, "en-US"),
         )
     }
 

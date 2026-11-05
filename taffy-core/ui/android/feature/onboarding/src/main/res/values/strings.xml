@@ -53,7 +53,7 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
     <string name="taffy_language_region_region_label">Region</string>
     <string name="taffy_language_region_region_note">Search, prices and units follow this.</string>
     <string name="taffy_language_region_region_all">All countries and regions</string>
-    <string name="taffy_language_region_region_all_note">English and Hindi stay available in every country.</string>
+    <string name="taffy_language_region_region_all_note">English, Hindi and Russian stay available in every country.</string>
     <string name="taffy_language_region_language_label">App language</string>
     <string name="taffy_language_region_system">Follow the system</string>
     <string name="taffy_language_region_system_note">Whatever your phone is set to. English if TaffyGo has no words for that language.</string>
@@ -61,16 +61,20 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
     <string name="taffy_language_region_english_note">TaffyGo\'s own words in English</string>
     <string name="taffy_language_region_hindi">हिन्दी</string>
     <string name="taffy_language_region_hindi_note">TaffyGo\'s own words in Hindi</string>
+    <!-- Language rows name themselves: Russian in Russian. -->
+    <string name="taffy_language_region_russian">Русский</string>
+    <string name="taffy_language_region_russian_note">TaffyGo\'s own words in Russian</string>
     <string name="taffy_language_region_search">Search languages</string>
     <string name="taffy_language_region_no_matches">No matching languages</string>
     <string name="taffy_language_region_picker_title">Country or region</string>
-    <string name="taffy_language_region_picker_body">English and Hindi stay available in every country. This choice is for search, prices and units.</string>
+    <string name="taffy_language_region_picker_body">English, Hindi and Russian stay available in every country. This choice is for search, prices and units.</string>
     <string name="taffy_language_region_picker_search">Search countries or codes</string>
     <string name="taffy_language_region_footnote">Web pages are never translated or restyled — this is TaffyGo\'s own interface only.</string>
     <string name="taffy_language_region_done">Done</string>
     <string name="taffy_language_chip_value">%1$s · %2$s</string>
     <string name="taffy_language_chip_english">English</string>
     <string name="taffy_language_chip_hindi">हिन्दी</string>
+    <string name="taffy_language_chip_russian">Русский</string>
     <string name="taffy_language_chip_description">Region and language: %1$s. Change it.</string>
 
     <!-- Screen SCR-004 — AI setup. One route, and the option to answer later. -->

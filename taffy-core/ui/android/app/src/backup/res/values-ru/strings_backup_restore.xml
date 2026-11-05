@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_backup_recovery_review">Проверить прерванное восстановление</string>
+    <string name="taffy_backup_recovery_help">Проверьте восстановление, которое было прервано в этом профиле. Чтобы посмотреть сохранённый результат, ключ восстановления не нужен. Восстановление не повторяется, и выбор «Оставить» или «Отменить» за вас не делается.</string>
+    <string name="taffy_backup_recovery_checking">Проверяем сохранённую запись о восстановлении и её результат…</string>
+    <string name="taffy_backup_recovery_saved_review">Эти сведения взяты из сохранённой записи о восстановлении. Числа описывают сохранённый выбор, а не проверку содержимого. Чтобы оставить или отменить профиль, нужно выбрать заново.</string>
+    <string name="taffy_backup_recovery_none">Прерванных восстановлений для этого профиля не найдено.</string>
+    <string name="taffy_backup_recovery_source_unavailable">Вернитесь в профиль, где вы начали восстановление, и попробуйте ещё раз, когда он будет готов. Новый выбор не сделан.</string>
+    <string name="taffy_backup_recovery_unavailable">TaffyGo не удалось проверить прерванные восстановления. Новый выбор не сделан. Попробуйте ещё раз, когда профиль будет готов.</string>
+    <string name="taffy_backup_recovery_already_kept">Предыдущее восстановление уже оставлено. Его профиль доступен в разделе «Профили». Текущий профиль не изменился.</string>
+    <string name="taffy_backup_recovery_already_discarded">Предыдущее восстановление уже отменено, и его новый профиль удалён. Текущий профиль и файл резервной копии не изменились.</string>
+    <string name="taffy_backup_recovery_closed">Проверка закрыта. Закрытие проверки не повторяет, не оставляет и не отменяет восстановление.</string>
+    <string name="taffy_backup_recovery_precommit">Сохранённая запись не подтверждает, что восстановление завершено. TaffyGo не может предложить «Оставить» или «Отменить» по этой записи. Не повторяйте восстановление, чтобы его завершить.</string>
+    <string name="taffy_backup_recovery_details_missing">Сохранённые сведения для проверки отсутствуют. Без них TaffyGo не может предложить «Оставить» или «Отменить». Не повторяйте восстановление, чтобы его завершить.</string>
+    <string name="taffy_backup_recovery_format_mismatch">Сохранённое восстановление использует формат хранения, который эта версия не может безопасно проверить. Выбор «Оставить» или «Отменить» недоступен. Не повторяйте восстановление, чтобы его завершить.</string>
+    <string name="taffy_backup_recovery_unknown">TaffyGo не удалось установить результат предыдущего восстановления. Выбор «Оставить» или «Отменить» недоступен. Не повторяйте восстановление, чтобы его завершить.</string>
+    <string name="taffy_backup_recovery_busy_or_changed">Сохранённое восстановление ещё используется, изменилось или не может быть безопасно проверено. Выбор «Оставить» или «Отменить» недоступен. Попробуйте проверить его снова, когда профиль будет готов.</string>
+    <string name="taffy_backup_restore">Восстановить из резервной копии</string>
+    <string name="taffy_backup_restore_help">Содержимое резервной копии восстанавливается в новый профиль. Текущий профиль остаётся отдельным. Перед восстановлением вы проверите сохранённый выбор.</string>
+    <string name="taffy_backup_restore_profile_name">Восстановленный профиль</string>
+    <string name="taffy_backup_restore_name_label">Название нового профиля</string>
+    <string name="taffy_backup_restore_name_count">%1$d / %2$d</string>
+    <string name="taffy_backup_restore_file_checked">Файл проверен вашим ключом восстановления. Чтобы продолжить, проверьте сохранённый выбор.</string>
+    <string name="taffy_backup_restore_review">Проверить резервную копию</string>
+    <string name="taffy_backup_restore_review_title">Проверьте, что будет восстановлено</string>
+    <string name="taffy_backup_restore_target_named">Куда: %1$s (новый профиль)</string>
+    <string name="taffy_backup_restore_selection">Сохранённый выбор</string>
+    <string name="taffy_backup_restore_count">%1$s: %2$d</string>
+    <string name="taffy_backup_restore_creates">Будет восстановлено: %1$d</string>
+    <string name="taffy_backup_restore_deletions">Сохранённые удаления: %1$d</string>
+    <string name="taffy_backup_restore_unchanged">Уже есть: %1$d</string>
+    <string name="taffy_backup_restore_newer">Оставлены более новые: %1$d</string>
+    <string name="taffy_backup_restore_blocked">Остаются удалёнными: %1$d</string>
+    <string name="taffy_backup_restore_conflicts">Нужен другой выбор: %1$d</string>
+    <string name="taffy_backup_restore_conflict_help">Прежде чем восстановить этот выбор, нужно принять ещё одно решение. Ничего не восстановлено.</string>
+    <string name="taffy_backup_restore_prepare">Подтвердить выбор и подготовить</string>
+    <string name="taffy_backup_restore_planning">Читаем сохранённый выбор и готовим новый профиль…</string>
+    <string name="taffy_backup_restore_staging">Готовим и проверяем выбранное содержимое…</string>
+    <string name="taffy_backup_restore_staged">Выбранное содержимое подготовлено и проверено. Восстановить его в новый профиль?</string>
+    <string name="taffy_backup_restore_commit">Восстановить в новый профиль</string>
+    <string name="taffy_backup_restore_committing">Восстанавливаем выбранное содержимое. Этот шаг нельзя отменить…</string>
+    <string name="taffy_backup_restore_candidate">Выбранное содержимое восстановлено и проверено. Новый профиль пока скрыт. Проверьте результат и решите, оставить его или отменить.</string>
+    <string name="taffy_backup_restore_keep">Оставить этот профиль</string>
+    <string name="taffy_backup_restore_discard">Отменить этот профиль</string>
+    <string name="taffy_backup_restore_discard_title">Отменить новый профиль?</string>
+    <string name="taffy_backup_restore_discard_help">Будет удалён только новый профиль. Текущий профиль и файл резервной копии не изменятся.</string>
+    <string name="taffy_backup_restore_back_to_review">Вернуться к проверке</string>
+    <string name="taffy_backup_restore_resolving">Завершаем ваш выбор и проверяем результат…</string>
+    <string name="taffy_backup_restore_choice_not_completed">Ваш выбор не был выполнен. Новый профиль по-прежнему скрыт. Вы можете выбрать снова, когда будете готовы.</string>
+    <string name="taffy_backup_restore_kept">Восстановленный профиль теперь доступен в разделе «Профили». Текущий профиль не изменился.</string>
+    <string name="taffy_backup_restore_discarded">Новый профиль удалён. Текущий профиль и файл резервной копии не изменились.</string>
+    <string name="taffy_backup_restore_not_committed">Ничего не восстановлено. Новый профиль по-прежнему скрыт, и его нужно удалить. Это можно сделать ниже. Текущий профиль не изменился.</string>
+    <string name="taffy_backup_restore_needs_review">TaffyGo не удалось подтвердить результат. Текущий профиль не изменился. Не повторяйте восстановление, чтобы его завершить.</string>
+    <string name="taffy_backup_restore_refused">Эту резервную копию не удалось подготовить к восстановлению. Восстановленного профиля нет.</string>
+    <string name="taffy_backup_restore_stopped">Подготовка к восстановлению остановлена. Текущий профиль и файл резервной копии не изменились.</string>
+</resources>

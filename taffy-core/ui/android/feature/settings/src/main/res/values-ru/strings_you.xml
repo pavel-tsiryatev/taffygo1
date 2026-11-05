@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_you_pane_empty_title">Выберите раздел</string>
+    <string name="taffy_you_pane_empty_body">Выберите пункт в списке. Он откроется здесь.</string>
+    <string name="taffy_you_header_description">%1$s. %2$s</string>
+    <string name="taffy_you_profile_title">Профиль</string>
+    <string name="taffy_you_profile_summary">Ваше имя и картинка</string>
+    <string name="taffy_you_profile_note">Ваше имя и картинка остаются на этом телефоне. Никуда ничего не отправляется.</string>
+    <string name="taffy_you_hero_body">Taffy — ваш проводник в этом браузере. Реклама и трекеры остаются заблокированными.</string>
+    <string name="taffy_you_banner_label">Картинка</string>
+    <string name="taffy_you_banner_choice">Картинка %1$d из %2$d</string>
+    <string name="taffy_you_name_label">Имя</string>
+    <string name="taffy_you_name_empty">Имя на этом телефоне не указано</string>
+    <string name="taffy_you_name_placeholder">Добавьте имя</string>
+    <string name="taffy_you_ads_note">Реклама и трекеры заблокированы на всех сайтах.</string>
+    <string name="taffy_you_more_title">Также на этом телефоне</string>
+    <string name="taffy_you_time_summary_unavailable">На этом телефоне пока не измеряется</string>
+    <string name="taffy_you_time_summary_week">За эту неделю</string>
+    <string name="taffy_you_time_summary_empty">Время пока не подсчитано</string>
+    <string name="taffy_you_memory_empty_summary">Taffy пока ничего не запомнил</string>
+    <string name="taffy_you_memory_unavailable_summary">На этом телефоне пока недоступно</string>
+    <string name="taffy_you_sign_ins_empty_summary">Пока ничего не сохранено</string>
+    <string name="taffy_you_sign_ins_unavailable_summary">На этом телефоне пока недоступны</string>
+    <string name="taffy_you_details_summary">Имя, адрес, почта</string>
+    <string name="taffy_you_details_empty_summary">Пока ничего не сохранено</string>
+    <string name="taffy_you_details_unavailable_summary">На этом телефоне пока недоступны</string>
+    <string name="taffy_you_banner_unavailable">Картинок на этом телефоне пока нет.</string>
+    <string name="taffy_you_happened_summary">Последние результаты рабочих пространств задач</string>
+    <string name="taffy_you_library_summary">То, что вы попросили Taffy сохранить</string>
+    <string name="taffy_you_private_unavailable">Недоступно в приватной вкладке. Taffy забывает всё из приватных вкладок, когда они закрываются.</string>
+    <plurals name="taffy_you_memory_notes">
+        <item quantity="one">%1$d заметка</item>
+        <item quantity="few">%1$d заметки</item>
+        <item quantity="many">%1$d заметок</item>
+        <item quantity="other">%1$d заметки</item>
+    </plurals>
+    <string name="taffy_saved_never_sends">Taffy никогда не отправляет пароли, номера карт и сохранённые данные AI-провайдеру. Для заполнения формы по-прежнему нужно ваше согласие, и сначала показываются точные значения.</string>
+    <string name="taffy_time_today">Сегодня</string>
+    <string name="taffy_time_this_week">За эту неделю</string>
+    <string name="taffy_time_hours_minutes">%1$d ч %2$d мин</string>
+    <string name="taffy_time_minutes">%1$d мин</string>
+    <string name="taffy_time_less_than_minute">Меньше 1 мин</string>
+    <string name="taffy_time_zero">0 мин</string>
+    <plurals name="taffy_time_across_today">
+        <item quantity="one">на %1$d сайте сегодня</item>
+        <item quantity="few">на %1$d сайтах сегодня</item>
+        <item quantity="many">на %1$d сайтах сегодня</item>
+        <item quantity="other">на %1$d сайта сегодня</item>
+    </plurals>
+    <plurals name="taffy_time_across_week">
+        <item quantity="one">на %1$d сайте за эту неделю</item>
+        <item quantity="few">на %1$d сайтах за эту неделю</item>
+        <item quantity="many">на %1$d сайтах за эту неделю</item>
+        <item quantity="other">на %1$d сайта за эту неделю</item>
+    </plurals>
+    <plurals name="taffy_time_across_today_at_least">
+        <item quantity="one">как минимум на %1$d сайте сегодня</item>
+        <item quantity="few">как минимум на %1$d сайтах сегодня</item>
+        <item quantity="many">как минимум на %1$d сайтах сегодня</item>
+        <item quantity="other">как минимум на %1$d сайта сегодня</item>
+    </plurals>
+    <plurals name="taffy_time_across_week_at_least">
+        <item quantity="one">как минимум на %1$d сайте за эту неделю</item>
+        <item quantity="few">как минимум на %1$d сайтах за эту неделю</item>
+        <item quantity="many">как минимум на %1$d сайтах за эту неделю</item>
+        <item quantity="other">как минимум на %1$d сайта за эту неделю</item>
+    </plurals>
+    <string name="taffy_time_other_sites">Другие сайты</string>
+    <string name="taffy_time_grouped_note">Остальные сайты объединены в «Другие сайты», чтобы список на устройстве оставался ограниченным. Их измеренное время всё равно учитывается.</string>
+    <string name="taffy_time_retention_note">Для этого семидневного обзора браузер хранит данные за девять дней. Более старые посещения объединяются по дням.</string>
+    <string name="taffy_time_recovered_note">Часть ранее измеренного времени не удалось прочитать, и она не учтена.</string>
+    <string name="taffy_time_caption_private">Приватные вкладки не учитываются.</string>
+    <string name="taffy_time_caption_taffy">Вкладки Taffy не учитываются.</string>
+    <string name="taffy_time_cleared">Время на сайтах очищено вместе с историей.</string>
+    <string name="taffy_time_empty_title">Время пока не подсчитано.</string>
+    <string name="taffy_time_empty_body">Когда вы будете просматривать сайты в своих вкладках, здесь появятся данные за сегодня и за неделю.</string>
+    <string name="taffy_time_unavailable_title">Время на сайтах сейчас недоступно.</string>
+    <string name="taffy_time_unavailable_body">TaffyGo не может прочитать измеренное время. Попробуйте через минуту. Ничего не придумывается.</string>
+    <string name="taffy_time_not_counted">Не подсчитано</string>
+    <string name="taffy_time_counts_eyebrow">Время</string>
+    <string name="taffy_time_counts_title">Сегодня и за неделю</string>
+    <string name="taffy_time_sites_title">Сайты</string>
+    <string name="taffy_time_loading">Загрузка времени на сайтах</string>
+    <string name="taffy_time_row_description">%1$s, %2$s</string>
+    <string name="taffy_happened_intro">Последний сохранённый результат каждого завершённого рабочего пространства задачи и общее число блокировок за неделю. Это не полная история действий.</string>
+    <string name="taffy_happened_today">Сегодня</string>
+    <string name="taffy_happened_yesterday">Вчера</string>
+    <string name="taffy_happened_empty_title">Завершённых рабочих пространств задач пока нет.</string>
+    <string name="taffy_happened_empty_body">Здесь появляются завершённые, частично выполненные, остановленные и неудавшиеся рабочие пространства. Другие действия в браузере здесь не показываются.</string>
+    <string name="taffy_happened_unavailable_title">Раздел «Что произошло» сейчас недоступен.</string>
+    <string name="taffy_happened_unavailable_body">TaffyGo не загрузил этот список. Попробуйте через минуту.</string>
+    <string name="taffy_happened_loading">Загрузка раздела «Что произошло»</string>
+    <string name="taffy_happened_workspace_deleted">Рабочее пространство удалено</string>
+    <plurals name="taffy_happened_requests_blocked">
+        <item quantity="one">Заблокирован %1$d запрос</item>
+        <item quantity="few">Заблокировано %1$d запроса</item>
+        <item quantity="many">Заблокировано %1$d запросов</item>
+        <item quantity="other">Заблокировано %1$d запроса</item>
+    </plurals>
+    <plurals name="taffy_happened_workspace_sources">
+        <item quantity="one">Результат рабочего пространства · %1$d источник</item>
+        <item quantity="few">Результат рабочего пространства · %1$d источника</item>
+        <item quantity="many">Результат рабочего пространства · %1$d источников</item>
+        <item quantity="other">Результат рабочего пространства · %1$d источника</item>
+    </plurals>
+    <string name="taffy_happened_updated">Обновлено: %1$s</string>
+    <string name="taffy_happened_summary">%1$s · %2$s</string>
+    <string name="taffy_happened_stopped">Вы остановили Taffy</string>
+    <string name="taffy_happened_failed">Taffy не смог завершить</string>
+    <string name="taffy_happened_row_description">%1$s. %2$s</string>
+    <string name="taffy_sign_ins_search">Поиск входов</string>
+    <string name="taffy_sign_ins_empty_title">В TaffyGo пока нет сохранённых входов.</string>
+    <string name="taffy_sign_ins_empty_body">Когда вы входите на сайт, TaffyGo может предложить сохранить пароль — но никогда не передаёт его AI-провайдеру.</string>
+    <string name="taffy_sign_ins_unavailable_title">Сохранённые входы на этом телефоне пока недоступны.</string>
+    <string name="taffy_sign_ins_unavailable_body">Когда они станут доступны, здесь появятся сайты, на которые вы входили. Ничего не придумывается.</string>
+    <string name="taffy_sign_ins_loading">Загрузка сохранённых входов</string>
+    <string name="taffy_sign_ins_username">Имя пользователя</string>
+    <string name="taffy_sign_ins_delete">Удалить</string>
+    <string name="taffy_sign_ins_delete_title">Удалить сохранённый вход для %1$s?</string>
+    <string name="taffy_sign_ins_delete_body">В следующий раз нужно будет войти заново.</string>
+    <string name="taffy_sign_ins_delete_confirm">Удалить</string>
+    <string name="taffy_sign_ins_delete_keep">Оставить</string>
+    <string name="taffy_sign_ins_row_description">%1$s. %2$s</string>
+    <string name="taffy_sign_ins_last_used_label">Последнее использование</string>
+    <string name="taffy_sign_ins_last_used">Последнее использование: %1$s</string>
+    <string name="taffy_details_empty_title">Сохранённых данных пока нет.</string>
+    <string name="taffy_details_empty_body">Добавьте имя или адрес, которые TaffyGo сможет предложить, когда сайт попросит, — каждое заполнение вы всё равно подтверждаете.</string>
+    <string name="taffy_details_unavailable_title">Сохранённые данные сейчас недоступны.</string>
+    <string name="taffy_details_unavailable_body">TaffyGo не загрузил этот список. Попробуйте через минуту.</string>
+    <string name="taffy_details_loading">Загрузка сохранённых данных</string>
+    <string name="taffy_details_add">Добавить данные</string>
+    <string name="taffy_details_edit">Изменить</string>
+    <string name="taffy_details_given_name">Имя</string>
+    <string name="taffy_details_family_name">Фамилия</string>
+    <string name="taffy_details_email">Электронная почта</string>
+    <string name="taffy_details_phone">Телефон</string>
+    <string name="taffy_details_address">Адрес</string>
+    <string name="taffy_details_postcode">Почтовый индекс</string>
+    <string name="taffy_details_country">Страна</string>
+    <string name="taffy_details_save">Сохранить</string>
+    <string name="taffy_details_cancel">Отмена</string>
+    <string name="taffy_details_delete">Удалить</string>
+    <string name="taffy_details_delete_title">Удалить эти данные?</string>
+    <string name="taffy_details_delete_body">TaffyGo не будет предлагать их, когда сайт попросит в следующий раз.</string>
+    <string name="taffy_details_delete_confirm">Удалить</string>
+    <string name="taffy_details_delete_keep">Оставить</string>
+    <string name="taffy_details_editor_add_title">Добавить данные</string>
+    <string name="taffy_details_editor_edit_title">Изменить данные</string>
+    <string name="taffy_details_row_description">%1$s. %2$s</string>
+    <string name="taffy_memory_promise">Taffy помнит только то, что вы видите здесь.</string>
+    <string name="taffy_memory_you_wrote">Вы написали</string>
+    <string name="taffy_memory_taffy_noticed">Taffy заметил</string>
+    <string name="taffy_memory_add">Добавить заметку</string>
+    <string name="taffy_memory_empty_title">Taffy пока ничего не запомнил.</string>
+    <string name="taffy_memory_empty_body">Добавьте заметку о том, как вам удобно работать: место у окна, короткие ответы, без ночных рейсов.</string>
+    <string name="taffy_memory_unavailable_title">Память сейчас недоступна.</string>
+    <string name="taffy_memory_unavailable_body">Taffy не загрузил то, что помнит. Попробуйте через минуту.</string>
+    <string name="taffy_memory_loading">Загрузка Памяти</string>
+    <string name="taffy_memory_search">Поиск в Памяти</string>
+    <string name="taffy_memory_process_caption">Заметки хранятся до закрытия TaffyGo.</string>
+    <string name="taffy_memory_field_label">Что должен запомнить Taffy?</string>
+    <string name="taffy_memory_field_caption">Taffy будет учитывать это в следующих задачах. Это можно изменить или удалить.</string>
+    <string name="taffy_memory_save">Сохранить</string>
+    <string name="taffy_memory_cancel">Отмена</string>
+    <string name="taffy_memory_delete">Удалить</string>
+    <string name="taffy_memory_delete_title">Удалить это из Памяти?</string>
+    <string name="taffy_memory_delete_body">Taffy забудет это на этом телефоне. Уже завершённые задачи останутся без изменений.</string>
+    <string name="taffy_memory_delete_confirm">Удалить</string>
+    <string name="taffy_memory_delete_keep">Оставить</string>
+    <string name="taffy_memory_editor_add_title">Добавить заметку</string>
+    <string name="taffy_memory_editor_edit_title">Изменить заметку</string>
+    <string name="taffy_memory_save_out_of_date">Заметка изменилась до сохранения. Ваш черновик на месте. Закройте и откройте её снова, затем попробуйте ещё раз.</string>
+    <string name="taffy_memory_save_failed">TaffyGo не удалось сохранить заметку. Ваш черновик на месте. Попробуйте снова.</string>
+    <string name="taffy_memory_delete_out_of_date">Заметка изменилась до удаления. Она всё ещё в Памяти. Закройте и откройте её снова, затем попробуйте ещё раз.</string>
+    <string name="taffy_memory_delete_failed">TaffyGo не удалось удалить заметку. Она всё ещё в Памяти. Попробуйте снова.</string>
+    <string name="taffy_memory_why_added">Добавлено вами · %1$s</string>
+    <string name="taffy_memory_why_yes">Вы согласились · %1$s</string>
+    <string name="taffy_memory_until">До %1$s</string>
+    <string name="taffy_memory_scope_all">Для всех следующих задач</string>
+    <string name="taffy_memory_scope_workspace">Только в «%1$s»</string>
+    <string name="taffy_memory_sensitive">Конфиденциально</string>
+    <string name="taffy_memory_row_description">%1$s. %2$s</string>
+    <string name="taffy_memory_group_heading">%1$s, %2$s</string>
+    <plurals name="taffy_memory_group_count">
+        <item quantity="one">%1$d заметка</item>
+        <item quantity="few">%1$d заметки</item>
+        <item quantity="many">%1$d заметок</item>
+        <item quantity="other">%1$d заметки</item>
+    </plurals>
+</resources>

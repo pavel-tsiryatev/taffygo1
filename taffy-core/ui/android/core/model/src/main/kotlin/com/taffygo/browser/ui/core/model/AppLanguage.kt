@@ -8,8 +8,8 @@ package com.taffygo.browser.ui.core.model
 
 /**
  * The language choice of screen SCR-407. The default follows the system
- * locale; English and Hindi are the locales the UI layer ships a translation
- * for (parity row PAR-L10N-001), and both are offered in every country.
+ * locale; English, Hindi and Russian are the locales the UI layer ships a
+ * translation for (parity row PAR-L10N-001), and both are offered in every country.
  * SYSTEM follows the device when that language has a catalogue, otherwise
  * English. The app language is the interface's language only: it never
  * translates a web page, and the assistant answers in it unless the user
@@ -33,4 +33,7 @@ enum class AppLanguage(
 
     /** Always Hindi. */
     HINDI("hindi", "hi"),
+
+    /** Always Russian. */
+    RUSSIAN("russian", "ru"),
 }

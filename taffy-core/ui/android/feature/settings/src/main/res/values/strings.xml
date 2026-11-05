@@ -115,11 +115,14 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
     <!-- Language rows name themselves (handoff screen 12b): Hindi in Hindi. -->
     <string name="taffy_appearance_language_hindi">हिन्दी</string>
     <string name="taffy_appearance_language_hindi_note">TaffyGo\'s own words in Hindi</string>
+    <!-- And Russian in Russian. -->
+    <string name="taffy_appearance_language_russian">Русский</string>
+    <string name="taffy_appearance_language_russian_note">TaffyGo\'s own words in Russian</string>
     <string name="taffy_appearance_language_footnote">This choice is TaffyGo\'s own words. It does not translate web pages.</string>
     <string name="taffy_appearance_country_change">Choose a country</string>
     <string name="taffy_appearance_country_note">Search, prices and units follow this.</string>
     <string name="taffy_appearance_country_picker_title">Country or region</string>
-    <string name="taffy_appearance_country_picker_body">English and Hindi stay available in every country. This choice is for search, prices and units.</string>
+    <string name="taffy_appearance_country_picker_body">English, Hindi and Russian stay available in every country. This choice is for search, prices and units.</string>
     <string name="taffy_appearance_country_picker_search">Search countries or codes</string>
     <string name="taffy_appearance_pair">%1$s, %2$s</string>
     <string name="taffy_appearance_text_size">Text size</string>

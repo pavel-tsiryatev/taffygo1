@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_library_home_title">Библиотека</string>
+    <string name="taffy_library_home_search">Поиск в Библиотеке</string>
+    <string name="taffy_library_home_loading">Загрузка Библиотеки</string>
+    <string name="taffy_library_home_empty_title">В Библиотеке пока ничего нет</string>
+    <string name="taffy_library_home_empty_body">Закладки — это отмеченные вами страницы. Библиотека — то, что вы попросили Taffy сохранить. Память — то, как вам удобно работать, и она находится в разделе «Вы», а не здесь. Сохраните факт, фрагмент страницы, файл или рабочее пространство, и он появится здесь.</string>
+    <string name="taffy_library_home_no_matches_title">Ничего не найдено</string>
+    <string name="taffy_library_home_no_matches_body">Ни в одной коллекции и ни в одном сохранённом элементе этого нет.</string>
+    <string name="taffy_library_home_supporting">%1$s · %2$s</string>
+    <string name="taffy_library_home_description">%1$s, %2$s</string>
+    <string name="taffy_library_home_description_conflict">%1$s, %2$s, %3$s</string>
+    <plurals name="taffy_library_item_count">
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
+        <item quantity="many">%1$d элементов</item>
+        <item quantity="other">%1$d элемента</item>
+    </plurals>
+    <plurals name="taffy_library_conflict_count">
+        <item quantity="one">%1$d расхождение</item>
+        <item quantity="few">%1$d расхождения</item>
+        <item quantity="many">%1$d расхождений</item>
+        <item quantity="other">%1$d расхождения</item>
+    </plurals>
+    <string name="taffy_library_unavailable_title">Библиотека сейчас недоступна</string>
+    <string name="taffy_library_unavailable_body">То, что вы попросили Taffy сохранить, появится здесь, когда Библиотека будет подключена. Ничего не загружено.</string>
+    <string name="taffy_library_pane_empty_title">Выберите коллекцию</string>
+    <string name="taffy_library_pane_empty_body">Выберите коллекцию в списке. Сохранённые в ней элементы откроются здесь.</string>
+    <string name="taffy_library_collection_search">Поиск в коллекции</string>
+    <string name="taffy_library_collection_loading">Загрузка коллекции</string>
+    <string name="taffy_library_collection_empty_title">В этой коллекции пока ничего нет</string>
+    <string name="taffy_library_collection_empty_body">Сохраните факт, фрагмент страницы, файл или рабочее пространство, и он появится здесь.</string>
+    <string name="taffy_library_collection_missing_title">Этой коллекции здесь нет</string>
+    <string name="taffy_library_collection_missing_body">Она удалена, или Библиотека не подключена.</string>
+    <string name="taffy_library_collection_no_matches_title">Ничего не найдено</string>
+    <string name="taffy_library_collection_no_matches_body">Ни в одном элементе этой коллекции этого нет.</string>
+    <string name="taffy_library_collection_refresh">Обновить элементы</string>
+    <string name="taffy_library_collection_export">Экспорт</string>
+    <string name="taffy_library_collection_remove">Удалить коллекцию</string>
+    <string name="taffy_library_collection_disconnected">Обновление, экспорт и удаление пока не подключены. Ничего не изменено.</string>
+    <string name="taffy_library_collection_not_refreshable">У этих сохранённых страниц нет безопасных адресов для повторного открытия. Ничего не будет открыто.</string>
+    <string name="taffy_library_refresh_title">Обновить коллекцию?</string>
+    <string name="taffy_library_refresh_work">Taffy откроет %1$s и прочитает %2$s только после вашего согласия.</string>
+    <plurals name="taffy_library_refresh_navigation_count">
+        <item quantity="one">%1$d сохранённую страницу</item>
+        <item quantity="few">%1$d сохранённые страницы</item>
+        <item quantity="many">%1$d сохранённых страниц</item>
+        <item quantity="other">%1$d сохранённой страницы</item>
+    </plurals>
+    <plurals name="taffy_library_refresh_observation_count">
+        <item quantity="one">%1$d страницу</item>
+        <item quantity="few">%1$d страницы</item>
+        <item quantity="many">%1$d страниц</item>
+        <item quantity="other">%1$d страницы</item>
+    </plurals>
+    <string name="taffy_library_refresh_no_provider">AI-провайдер не будет задействован.</string>
+    <string name="taffy_library_refresh_sources">Страницы для повторного открытия</string>
+    <string name="taffy_library_refresh_source">%1$s — %2$s</string>
+    <string name="taffy_library_refresh_confirm">Начать обновление</string>
+    <string name="taffy_library_refresh_result">Обновление завершено: %1$s, %2$s, %3$s. Исходная версия по-прежнему сохранена.</string>
+    <plurals name="taffy_library_refresh_changed_count">
+        <item quantity="one">%1$d элемент изменился</item>
+        <item quantity="few">%1$d элемента изменились</item>
+        <item quantity="many">%1$d элементов изменились</item>
+        <item quantity="other">%1$d элемента изменились</item>
+    </plurals>
+    <plurals name="taffy_library_refresh_missing_count">
+        <item quantity="one">%1$d элемент пропал</item>
+        <item quantity="few">%1$d элемента пропали</item>
+        <item quantity="many">%1$d элементов пропали</item>
+        <item quantity="other">%1$d элемента пропали</item>
+    </plurals>
+    <plurals name="taffy_library_refresh_unchanged_count">
+        <item quantity="one">%1$d элемент без изменений</item>
+        <item quantity="few">%1$d элемента без изменений</item>
+        <item quantity="many">%1$d элементов без изменений</item>
+        <item quantity="other">%1$d элемента без изменений</item>
+    </plurals>
+    <string name="taffy_library_collection_item_supporting">%1$s · %2$s</string>
+    <string name="taffy_library_collection_item_description">%1$s, %2$s</string>
+    <string name="taffy_library_collection_item_description_conflict">%1$s, %2$s, %3$s</string>
+    <string name="taffy_library_item_loading">Загрузка элемента</string>
+    <string name="taffy_library_item_missing_title">Этот элемент недоступен</string>
+    <string name="taffy_library_item_missing_body">Он удалён из Библиотеки, или Библиотека не подключена.</string>
+    <string name="taffy_library_item_sources">Источники</string>
+    <string name="taffy_library_item_source_chip">Источник: %1$s</string>
+    <string name="taffy_library_item_related">Связанные элементы</string>
+    <string name="taffy_library_item_captured">Сохранено %1$s</string>
+    <string name="taffy_library_item_conflict">Источники расходятся</string>
+    <string name="taffy_library_item_remove">Удалить из Библиотеки</string>
+    <string name="taffy_library_item_disconnected">Удаление из Библиотеки пока не подключено. Элемент не удалён.</string>
+    <string name="taffy_library_item_description">%1$s</string>
+    <string name="taffy_library_item_description_conflict">%1$s, %2$s</string>
+    <string name="taffy_library_keep_title">Сохранить</string>
+    <string name="taffy_library_keep_body">Выберите коллекцию и что сохранить. Так факт, страница, файл или рабочее пространство попадают в Библиотеку — это не отмеченная звёздочкой страница и не Память.</string>
+    <string name="taffy_library_keep_loading">Загрузка коллекций</string>
+    <string name="taffy_library_keep_disconnected">Сохранение пока не подключено. В Библиотеку ничего не добавлено.</string>
+    <string name="taffy_library_keep_collections">Коллекция</string>
+    <string name="taffy_library_keep_what">Что сохранить</string>
+    <string name="taffy_library_keep_kind_fact">Факт</string>
+    <string name="taffy_library_keep_kind_page">Фрагмент страницы</string>
+    <string name="taffy_library_keep_kind_file">Файл</string>
+    <string name="taffy_library_keep_kind_workspace">Рабочее пространство</string>
+    <string name="taffy_library_keep_action">Сохранить</string>
+    <string name="taffy_workspace_detail_keep_fact">Сохранить этот факт</string>
+    <string name="taffy_library_keep_no_collections">Пока нет коллекции, в которую это можно сохранить.</string>
+    <string name="taffy_library_keep_collection_description">%1$s, %2$s</string>
+    <string name="taffy_library_keep_kind_description">%1$s</string>
+</resources>

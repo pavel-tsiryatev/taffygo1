@@ -303,12 +303,14 @@ private fun languageName(language: AppLanguage) = when (language) {
     AppLanguage.SYSTEM -> R.string.taffy_language_region_system
     AppLanguage.ENGLISH -> R.string.taffy_language_region_english
     AppLanguage.HINDI -> R.string.taffy_language_region_hindi
+    AppLanguage.RUSSIAN -> R.string.taffy_language_region_russian
 }
 
 private fun languageNote(language: AppLanguage) = when (language) {
     AppLanguage.SYSTEM -> R.string.taffy_language_region_system_note
     AppLanguage.ENGLISH -> R.string.taffy_language_region_english_note
     AppLanguage.HINDI -> R.string.taffy_language_region_hindi_note
+    AppLanguage.RUSSIAN -> R.string.taffy_language_region_russian_note
 }
 
 const val LANGUAGE_REGION_SEARCH_TEST_TAG: String = "language_region_search"

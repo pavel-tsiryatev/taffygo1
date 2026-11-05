@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_backup_delete_choose">Удалить файл резервной копии…</string>
+    <string name="taffy_backup_delete_choose_help">Выберите старую резервную копию или файл, из которого вы восстанавливались. Ключ восстановления не нужен. TaffyGo читает только имя файла и просит подтверждения перед удалением.</string>
+    <string name="taffy_backup_delete_selected_name">Выбранный файл: %1$s</string>
+    <string name="taffy_backup_delete_selected_help">Это имя получено от приложения для хранения файлов. TaffyGo не проверял содержимое и не знает, действительно ли это резервная копия. Ничего не удалено.</string>
+    <string name="taffy_backup_delete_selected_request">Удалить выбранный файл…</string>
+    <string name="taffy_backup_delete_selected_warning">Удалить выбранный файл? Возможно, это ваша единственная резервная копия. Текущий профиль и ключ восстановления не изменятся.</string>
+    <string name="taffy_backup_delete_reading_name">Читаем имя выбранного файла. Ничего не удаляется…</string>
+    <string name="taffy_backup_delete_selection_unavailable">TaffyGo не удалось подготовить файл к удалению. Ни один файл не удалён. Выберите его ещё раз или воспользуйтесь приложением для хранения файлов.</string>
+    <string name="taffy_backup_delete_selection_cancelled">Выбор файла отменён. Ни один файл не удалён.</string>
+    <string name="taffy_backup_copy_cleanup_help">Вы можете удалить файл, только что использованный для экспорта, даже если копия неполная. Если вы уйдёте с этого экрана, файл не удалится.</string>
+    <string name="taffy_backup_copy_delete_request">Удалить экспортированный файл…</string>
+    <string name="taffy_backup_copy_delete_warning">Удалить именно тот файл, который выбран для этого экспорта? Возможно, это ваша единственная резервная копия. Текущий профиль и ключ восстановления не изменятся.</string>
+    <string name="taffy_backup_copy_retention">Приложение для хранения файлов может оставить файл в корзине или в своих резервных копиях. Копии в других местах не удаляются.</string>
+    <string name="taffy_backup_copy_delete_confirm">Удалить файл</string>
+    <string name="taffy_backup_copy_keep">Оставить файл</string>
+    <string name="taffy_backup_copy_deleting">Просим приложение для хранения файлов удалить файл и проверяем, что он больше не открывается…</string>
+    <string name="taffy_backup_copy_deleted">Приложение для хранения файлов приняло удаление, и файл больше не открывается в исходном месте. Он всё ещё может оставаться в корзине, резервных копиях или копиях в других местах.</string>
+    <string name="taffy_backup_copy_still_present">Файл всё ещё открывается. Удаление не подтверждено. Проверьте его в приложении для хранения файлов.</string>
+    <string name="taffy_backup_copy_delete_unverified">Не удалось подтвердить удаление. Возможно, файл ещё существует. Проверьте его в приложении для хранения файлов — TaffyGo не будет повторять попытку автоматически.</string>
+</resources>

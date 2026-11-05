@@ -11,8 +11,9 @@ import java.util.Locale
 /**
  * Country (ISO 3166-1) and UI language (BCP 47) are independent.
  *
- * English is always offered. Hindi is shipped (`values-hi`) so it is offered
- * in every country, not India-only. SYSTEM means follow the device when that
+ * English is always offered. Hindi (`values-hi`) and Russian (`values-ru`)
+ * are shipped, so they are offered in every country, not only where they are
+ * spoken. SYSTEM means follow the device when that
  * language has a catalogue, otherwise English, and is offered everywhere.
  * Changing country must not wipe a still-valid language.
  *
@@ -41,7 +42,11 @@ object LanguageRegionPolicy {
      */
     @Suppress("UNUSED_PARAMETER")
     fun isAvailable(language: AppLanguage, regionCode: String): Boolean = when (language) {
-        AppLanguage.SYSTEM, AppLanguage.ENGLISH, AppLanguage.HINDI -> true
+        AppLanguage.SYSTEM,
+        AppLanguage.ENGLISH,
+        AppLanguage.HINDI,
+        AppLanguage.RUSSIAN,
+        -> true
     }
 
     /**
@@ -56,7 +61,7 @@ object LanguageRegionPolicy {
      * BCP 47 tag.
      *
      * SYSTEM follows the device when that language has a catalogue, otherwise
-     * English. An explicit English or Hindi choice is left alone. Country is
+     * English. An explicit English, Hindi or Russian choice is left alone. Country is
      * not consulted: the chip and the first-run default have to agree with
      * [AppLanguage] even when the stored country is not India.
      */

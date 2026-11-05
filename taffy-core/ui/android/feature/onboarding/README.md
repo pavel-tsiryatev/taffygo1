@@ -126,8 +126,8 @@ Ordered, and each item is a gap rather than a silent hole:
    selected code through `UserPreferencesRepository`. Country and language are
    independent: changing country does not wipe a still-valid language. Country
    recognition is rendered locally from the ISO code; opening or scrolling the
-   picker makes no country-specific network request. English, Hindi, and Follow
-   the system are offered in every country. SYSTEM means follow the device when
+   picker makes no country-specific network request. English, Hindi, Russian,
+   and Follow the system are offered in every country. SYSTEM means follow the device when
    that catalogue exists, otherwise English. SCR-407 reads the same
    `LanguageRegionPolicy`; neither screen keeps a second country-to-language
    list.
