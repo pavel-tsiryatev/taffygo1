@@ -16,7 +16,7 @@ bool Valid(const BackupBrowserPreferenceRecord& record) {
   return (record.theme == "SYSTEM" || record.theme == "LIGHT" ||
           record.theme == "DARK") &&
          (record.app_language == "SYSTEM" || record.app_language == "ENGLISH" ||
-          record.app_language == "HINDI") &&
+          record.app_language == "HINDI" || record.app_language == "RUSSIAN") &&
          record.region_code.size() == 2 && record.region_code[0] >= 'A' &&
          record.region_code[0] <= 'Z' && record.region_code[1] >= 'A' &&
          record.region_code[1] <= 'Z';

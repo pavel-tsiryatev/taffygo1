@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_taffy_hub_title">Taffy</string>
+    <string name="taffy_taffy_hub_talk">Как говорит Taffy</string>
+    <string name="taffy_taffy_hub_talk_summary">Характер</string>
+    <string name="taffy_taffy_hub_skills">Что умеет Taffy</string>
+    <string name="taffy_taffy_hub_skills_summary">Навыки на этом телефоне</string>
+    <string name="taffy_taffy_hub_ai">AI и провайдеры</string>
+    <string name="taffy_taffy_hub_ai_summary">Ваши ключи</string>
+    <string name="taffy_taffy_hub_opens">%1$s. %2$s. Открывает следующий экран.</string>
+    <string name="taffy_taffy_hub_suggestions_title">Подсказки при вводе</string>
+    <string name="taffy_taffy_hub_suggestions_body">Taffy предлагает следующие несколько слов, пока вы печатаете в поле «Спросить». Введённый там текст отправляется провайдеру, которого вы подключили сами. Он не становится частью задачи, и ничего о нём не записывается.</string>
+    <string name="taffy_skills_title">Что умеет Taffy</string>
+    <string name="taffy_skills_intro">Навыки, которые у Taffy уже есть, и действия на сайтах, которым вы его обучаете во время работы в браузере. Выключите навык, если не хотите, чтобы Taffy его использовал.</string>
+    <string name="taffy_skills_search">Поиск навыков</string>
+    <string name="taffy_skills_group_pages">Страницы</string>
+    <string name="taffy_skills_group_shopping">Покупки</string>
+    <string name="taffy_skills_group_forms">Формы и файлы</string>
+    <string name="taffy_skills_group_research">Исследования</string>
+    <string name="taffy_skills_group_media">Изображения и видео</string>
+    <string name="taffy_skills_group_library">Библиотека</string>
+    <string name="taffy_skills_unavailable_title">Список навыков Taffy сейчас недоступен.</string>
+    <string name="taffy_skills_unavailable_body">Taffy по-прежнему работает в браузере вместе с вами.</string>
+    <string name="taffy_skills_no_extras">Дополнительных навыков пока нет. Taffy и так работает в браузере вместе с вами.</string>
+    <string name="taffy_skills_added_unavailable">Добавленные навыки для сайтов временно недоступны. Встроенные навыки по-прежнему показаны ниже.</string>
+    <string name="taffy_skills_on">Вкл.</string>
+    <string name="taffy_skills_off">Выкл.</string>
+    <string name="taffy_skills_loading">Загрузка навыков Taffy</string>
+    <string name="taffy_skills_row_opens">%1$s. %2$s. %3$s. Открывает подробности.</string>
+    <plurals name="taffy_site_skill_summary">
+        <item quantity="one">Для %1$s · %2$d записанный шаг</item>
+        <item quantity="few">Для %1$s · %2$d записанных шага</item>
+        <item quantity="many">Для %1$s · %2$d записанных шагов</item>
+        <item quantity="other">Для %1$s · %2$d записанного шага</item>
+    </plurals>
+    <string name="taffy_skill_pages_lookup">Ответ по выбранным страницам</string>
+    <string name="taffy_skill_pages_lookup_summary">Taffy читает выбранные вами страницы и отвечает со ссылками на источники.</string>
+    <string name="taffy_skill_pages_compare">Сравнить открытые страницы</string>
+    <string name="taffy_skill_pages_compare_summary">Сопоставляет выбранные вами страницы.</string>
+    <string name="taffy_skill_pages_summarize">Кратко пересказать страницу</string>
+    <string name="taffy_skill_pages_summarize_summary">Краткое содержание страницы со ссылками на источники.</string>
+    <string name="taffy_skill_pages_table">Извлечь таблицу со страницы</string>
+    <string name="taffy_skill_pages_table_summary">Превращает поля на странице в таблицу, которую можно сохранить.</string>
+    <string name="taffy_skill_products">Сравнить товары</string>
+    <string name="taffy_skill_products_summary">Таблица сравнения по выбранным вами страницам товаров.</string>
+    <string name="taffy_skill_offers">Сравнить предложения</string>
+    <string name="taffy_skill_offers_summary">Находит предложения и ждёт вашего решения, прежде чем что-либо покупать.</string>
+    <string name="taffy_skill_form">Заполнить форму</string>
+    <string name="taffy_skill_form_summary">Подготавливает форму. Сначала вы видите точные значения и подтверждаете их.</string>
+    <string name="taffy_skill_downloads">Скачивание файлов</string>
+    <string name="taffy_skill_downloads_summary">Запускает скачивание, следит за ходом и может его отменить.</string>
+    <string name="taffy_skill_pdf">Прочитать PDF</string>
+    <string name="taffy_skill_pdf_summary">Отвечает на вопросы об открытом вами PDF.</string>
+    <string name="taffy_skill_sheet">Создать таблицу</string>
+    <string name="taffy_skill_sheet_summary">Превращает результаты исследования в таблицу, которую можно открыть.</string>
+    <string name="taffy_skill_document">Создать документ</string>
+    <string name="taffy_skill_document_summary">Превращает результаты исследования в файл, который можно сохранить.</string>
+    <string name="taffy_skill_depth">Изучить вопрос подробно</string>
+    <string name="taffy_skill_depth_summary">Более глубокий разбор по нескольким страницам с кратким итогом.</string>
+    <string name="taffy_skill_trip">Спланировать поездку</string>
+    <string name="taffy_skill_trip_summary">Даты, цены и источники для поездки, о которой вы спросили.</string>
+    <string name="taffy_skill_pictures">Понять изображения на странице</string>
+    <string name="taffy_skill_pictures_summary">Описывает изображения, на которые вы указали Taffy.</string>
+    <string name="taffy_skill_video">Прочитать расшифровку видео</string>
+    <string name="taffy_skill_video_summary">Отвечает по расшифровке с указанием времени.</string>
+    <string name="taffy_skill_keep">Сохранить в Библиотеку</string>
+    <string name="taffy_skill_keep_summary">Сохраняет выбранный вами факт, фрагмент или файл.</string>
+    <string name="taffy_skill_detail_title">Навык</string>
+    <string name="taffy_skill_detail_does">Что делает</string>
+    <string name="taffy_skill_detail_may_use">Что может использовать</string>
+    <string name="taffy_skill_detail_comes_with">Входит в Taffy</string>
+    <plurals name="taffy_site_skill_version">
+        <item quantity="one">Версия %1$d · %2$d записанный шаг</item>
+        <item quantity="few">Версия %1$d · %2$d записанных шага</item>
+        <item quantity="many">Версия %1$d · %2$d записанных шагов</item>
+        <item quantity="other">Версия %1$d · %2$d записанного шага</item>
+    </plurals>
+    <string name="taffy_skill_may_use_pages">Читать выбранные вами страницы</string>
+    <string name="taffy_skill_may_use_form">Подготавливать форму и ждать вас</string>
+    <string name="taffy_skill_may_use_downloads">Запускать скачивание, следить за ходом и отменять его.</string>
+    <string name="taffy_skill_may_use_files">Создавать файл, который можно сохранить</string>
+    <string name="taffy_skill_may_use_library">Сохранять выбранный вами факт, фрагмент или файл</string>
+    <string name="taffy_skill_may_use_pictures">Понимать изображения, на которые вы указали Taffy</string>
+    <string name="taffy_skill_may_use_video">Читать расшифровку с указанием времени</string>
+    <string name="taffy_skill_approvals">Taffy всё равно ждёт вас перед любым действием, которое меняет что-то на сайте или отправляет данные с телефона.</string>
+    <string name="taffy_skill_remove">Удалить</string>
+    <string name="taffy_skill_cannot_remove">Этот навык входит в Taffy и не удаляется.</string>
+    <string name="taffy_skill_remove_unavailable">Сейчас этот навык удалить нельзя.</string>
+    <string name="taffy_skill_missing_title">Этот навык не установлен.</string>
+    <string name="taffy_skill_missing_body">Его нет на этом телефоне.</string>
+    <string name="taffy_skill_detail_loading">Загрузка навыка</string>
+    <string name="taffy_skill_enabled_toggle">Использовать этот навык</string>
+    <string name="taffy_skill_required_tool_unavailable">Нужный инструмент браузера ещё не готов.</string>
+    <string name="taffy_skill_required_part_missing">Нужный компонент ещё не установлен.</string>
+    <string name="taffy_skill_profile_unavailable">Этот навык недоступен в этом профиле.</string>
+    <string name="taffy_skill_policy_unavailable">Текущие настройки безопасности не разрешают этот навык.</string>
+    <string name="taffy_personality_title">Как говорит Taffy</string>
+    <string name="taffy_personality_intro">Предустановка — это отправная точка для того, как говорит Taffy. Она не меняет то, что Taffy разрешено делать.</string>
+    <string name="taffy_personality_empty_title">Предустановок характера на этом телефоне пока нет.</string>
+    <string name="taffy_personality_empty_body">До их появления Taffy говорит одним, осторожным голосом.</string>
+    <string name="taffy_personality_not_saved">Характер на этом телефоне пока не сохранён.</string>
+    <string name="taffy_personality_loading">Загрузка настроек Taffy</string>
+    <string name="taffy_personality_selected">Выбрано</string>
+    <string name="taffy_personality_preset_description">%1$s. %2$s</string>
+    <string name="taffy_personality_preset_selected_description">%1$s. %2$s. Выбрано.</string>
+    <string name="taffy_personality_preset_researcher">Внимательный исследователь</string>
+    <string name="taffy_personality_preset_researcher_summary">Больше проверяет, называет источники и спрашивает, прежде чем расширять работу.</string>
+    <string name="taffy_personality_preset_shopper">Быстрый покупатель</string>
+    <string name="taffy_personality_preset_shopper_summary">Короткие ответы и быстрее проходит уже одобренные вами шаги покупки.</string>
+    <string name="taffy_personality_preset_trip">Планировщик поездок</string>
+    <string name="taffy_personality_preset_trip_summary">Расписывает даты, цены и источники для поездки, о которой вы спросили.</string>
+    <string name="taffy_personality_tune">Настроить, как говорит Taffy</string>
+    <string name="taffy_personality_tune_summary">Осторожно или быстро, коротко или подробно</string>
+    <string name="taffy_tuning_title">Настроить, как говорит Taffy</string>
+    <string name="taffy_tuning_caption">Эти настройки меняют то, как говорит Taffy. Они не меняют то, что Taffy разрешено делать.</string>
+    <string name="taffy_tuning_pace">Насколько Taffy осторожен</string>
+    <string name="taffy_tuning_pace_careful">Осторожно</string>
+    <string name="taffy_tuning_pace_quick">Быстро</string>
+    <string name="taffy_tuning_length">Насколько Taffy многословен</string>
+    <string name="taffy_tuning_length_concise">Кратко</string>
+    <string name="taffy_tuning_length_chatty">Подробно</string>
+    <string name="taffy_tuning_checkin">Когда Taffy уточняет</string>
+    <string name="taffy_tuning_checkin_asks">Сначала спрашивает</string>
+    <string name="taffy_tuning_checkin_acts">Действует по одобренным планам</string>
+    <string name="taffy_tuning_mid">Посередине</string>
+    <string name="taffy_tuning_loading">Загрузка настроек Taffy</string>
+</resources>

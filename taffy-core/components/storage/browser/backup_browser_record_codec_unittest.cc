@@ -195,7 +195,7 @@ TEST(BackupBrowserRecordCodecTest, BookmarkBoundsAndInvalidTextRefused) {
 TEST(BackupBrowserRecordCodecTest,
      PresentationChoicesRoundTripWithoutCoercion) {
   for (const auto* theme : {"SYSTEM", "LIGHT", "DARK"}) {
-    for (const auto* language : {"SYSTEM", "ENGLISH", "HINDI"}) {
+    for (const auto* language : {"SYSTEM", "ENGLISH", "HINDI", "RUSSIAN"}) {
       for (bool dark : {false, true}) {
         BackupBrowserPreferenceRecord value{theme, language, "GB", dark};
         auto encoded = EncodeBrowserPreferenceRecordV1(value);

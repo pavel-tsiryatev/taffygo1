@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_download_channel_name">Загрузки</string>
+    <string name="taffy_download_channel_description">Ход и результаты скачивания ваших файлов.</string>
+    <string name="taffy_download_hidden">Обновление загрузки</string>
+    <string name="taffy_download_share">Поделиться файлом</string>
+    <string name="taffy_download_running">Скачивается %1$s</string>
+    <string name="taffy_download_paused">Приостановлено: %1$s</string>
+    <string name="taffy_download_complete">Скачано: %1$s</string>
+    <string name="taffy_download_failed">Не удалось скачать %1$s</string>
+    <string name="taffy_download_pause">Пауза</string>
+    <string name="taffy_download_resume">Продолжить</string>
+    <string name="taffy_download_cancel">Отмена</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_workspace_list_title">Рабочие пространства</string>
+    <string name="taffy_workspace_list_search">Поиск по целям и источникам</string>
+    <string name="taffy_workspace_list_profile">В профиле %1$s</string>
+    <string name="taffy_workspace_list_create">Новое рабочее пространство</string>
+    <string name="taffy_workspace_list_supporting">%1$s · %2$s · %3$s</string>
+    <string name="taffy_workspace_list_loading">Загрузка рабочих пространств</string>
+    <string name="taffy_workspace_unavailable_title">Рабочие пространства сейчас недоступны</string>
+    <string name="taffy_workspace_unavailable_body">Сохранённые исследования никуда не делись. Они снова появятся, когда Taffy сможет загрузить полный список.</string>
+    <plurals name="taffy_workspace_list_sources">
+        <item quantity="one">%1$d источник</item>
+        <item quantity="few">%1$d источника</item>
+        <item quantity="many">%1$d источников</item>
+        <item quantity="other">%1$d источника</item>
+    </plurals>
+    <plurals name="taffy_workspace_list_conflicts">
+        <item quantity="one">%1$d расхождение</item>
+        <item quantity="few">%1$d расхождения</item>
+        <item quantity="many">%1$d расхождений</item>
+        <item quantity="other">%1$d расхождения</item>
+    </plurals>
+    <string name="taffy_workspace_list_description">%1$s, %2$s, %3$s</string>
+    <string name="taffy_workspace_list_empty_title">Рабочих пространств пока нет</string>
+    <string name="taffy_workspace_list_empty_body">Здесь хранятся исследования, которые Taffy провёл для вас, — в том состоянии, которого они действительно достигли.</string>
+    <string name="taffy_workspace_list_no_matches_title">Ничего не найдено</string>
+    <string name="taffy_workspace_list_no_matches_body">Ни в одном рабочем пространстве нет этого в цели или источниках.</string>
+    <string name="taffy_workspace_pane_empty_title">Выберите рабочее пространство</string>
+    <string name="taffy_workspace_pane_empty_body">Выберите рабочее пространство в списке. Его результат и источники откроются здесь.</string>
+    <string name="taffy_workspace_detail_loading">Загрузка рабочего пространства</string>
+    <string name="taffy_workspace_detail_missing_title">Этого рабочего пространства больше нет</string>
+    <string name="taffy_workspace_detail_missing_body">Оно удалено или больше недоступно на этом устройстве.</string>
+    <plurals name="taffy_workspace_detail_conflicts">
+        <item quantity="one">%1$d факт, в котором источники расходятся</item>
+        <item quantity="few">%1$d факта, в которых источники расходятся</item>
+        <item quantity="many">%1$d фактов, в которых источники расходятся</item>
+        <item quantity="other">%1$d факта, в которых источники расходятся</item>
+    </plurals>
+    <plurals name="taffy_workspace_detail_needs_sources">
+        <item quantity="one">%1$d ячейке нужен новый источник</item>
+        <item quantity="few">%1$d ячейкам нужен новый источник</item>
+        <item quantity="many">%1$d ячейкам нужен новый источник</item>
+        <item quantity="other">%1$d ячейки нуждаются в новом источнике</item>
+    </plurals>
+    <string name="taffy_workspace_detail_export">Экспорт</string>
+    <string name="taffy_workspace_rename_action">Переименовать</string>
+    <string name="taffy_workspace_delete_action">Удалить рабочее пространство</string>
+    <string name="taffy_workspace_rename_title">Переименовать рабочее пространство</string>
+    <string name="taffy_workspace_rename_label">Название рабочего пространства</string>
+    <string name="taffy_workspace_rename_confirm">Сохранить название</string>
+    <string name="taffy_workspace_delete_title">Удалить это рабочее пространство?</string>
+    <string name="taffy_workspace_delete_body">Удалить рабочее пространство и сохранённые результаты? С устройства будут удалены записи — источники: %1$d; факты: %2$d; экспорты: %3$d; вспомогательные индексы: %4$d. Сохранённые вами экспортированные файлы не затрагиваются.</string>
+    <string name="taffy_workspace_delete_confirm">Удалить рабочее пространство</string>
+    <string name="taffy_workspace_lifecycle_cancel">Отмена</string>
+    <string name="taffy_workspace_detail_output">Результат</string>
+    <string name="taffy_workspace_detail_fact_description">%1$s: %2$s, %3$s</string>
+    <string name="taffy_workspace_detail_source_chip">Источник: %1$s</string>
+    <string name="taffy_workspace_detail_sources">Источники</string>
+    <plurals name="taffy_workspace_detail_source_facts">
+        <item quantity="one">%1$d факт</item>
+        <item quantity="few">%1$d факта</item>
+        <item quantity="many">%1$d фактов</item>
+        <item quantity="other">%1$d факта</item>
+    </plurals>
+    <string name="taffy_workspace_detail_source_excluded">Исключён — его факты удалены</string>
+    <string name="taffy_workspace_detail_source_description">%1$s, %2$s</string>
+    <string name="taffy_workspace_detail_exclude">Исключить</string>
+    <string name="taffy_source_viewer_loading">Загрузка страницы</string>
+    <string name="taffy_source_viewer_missing_title">Этого источника больше нет</string>
+    <string name="taffy_source_viewer_missing_body">Его больше нет в рабочем пространстве.</string>
+    <string name="taffy_source_viewer_host">Страница</string>
+    <string name="taffy_source_viewer_read">Прочитано</string>
+    <string name="taffy_source_viewer_facts">Факты с этой страницы</string>
+    <string name="taffy_source_viewer_method">Как прочитано</string>
+    <string name="taffy_source_viewer_method_value">Структура страницы и дерево специальных возможностей</string>
+    <string name="taffy_source_viewer_in_scope">Учитывается</string>
+    <string name="taffy_source_viewer_included">Да</string>
+    <string name="taffy_source_viewer_excluded">Нет, вы его исключили</string>
+    <string name="taffy_source_viewer_open_live">Открыть страницу</string>
+    <string name="taffy_fact_correction_title">Исправить</string>
+    <string name="taffy_fact_correction_loading">Загрузка факта</string>
+    <string name="taffy_fact_correction_missing_title">Этого факта больше нет</string>
+    <string name="taffy_fact_correction_missing_body">Его больше нет в рабочем пространстве.</string>
+    <string name="taffy_fact_correction_field">Поле</string>
+    <string name="taffy_fact_correction_page_value">Что было на странице</string>
+    <string name="taffy_fact_correction_your_value">Ваш вариант</string>
+    <string name="taffy_fact_correction_notice">Ваше значение записывается рядом со значением со страницы, а не вместо него. %1$s</string>
+    <plurals name="taffy_fact_correction_downstream">
+        <item quantity="one">Ещё %1$d ячейка опирается на те же источники и будет пересчитана.</item>
+        <item quantity="few">Ещё %1$d ячейки опираются на те же источники и будут пересчитаны.</item>
+        <item quantity="many">Ещё %1$d ячеек опираются на те же источники и будут пересчитаны.</item>
+        <item quantity="other">Ещё %1$d ячейки опираются на те же источники и будут пересчитаны.</item>
+    </plurals>
+    <string name="taffy_fact_correction_save">Сохранить</string>
+    <string name="taffy_fact_correction_cancel">Отмена</string>
+    <string name="taffy_export_title">Экспорт</string>
+    <string name="taffy_export_loading">Подготовка экспорта</string>
+    <string name="taffy_export_missing_title">Нечего экспортировать</string>
+    <string name="taffy_export_missing_body">Этого рабочего пространства больше нет.</string>
+    <string name="taffy_export_format_markdown">Markdown</string>
+    <string name="taffy_export_format_comma_separated">CSV (через запятую)</string>
+    <string name="taffy_export_destination">Выберите, куда сохранить файл. Ничего не загружается в интернет.</string>
+    <string name="taffy_export_preview">Что будет записано</string>
+    <string name="taffy_export_action">Экспортировать как %1$s</string>
+    <string name="taffy_export_choosing_destination">Выберите, куда сохранить файл</string>
+    <string name="taffy_export_writing">Сохранение файла…</string>
+    <string name="taffy_export_succeeded">Файл сохранён</string>
+    <string name="taffy_export_failed">Не удалось сохранить файл. Попробуйте снова.</string>
+    <string name="taffy_export_cancelled">Экспорт отменён</string>
+</resources>

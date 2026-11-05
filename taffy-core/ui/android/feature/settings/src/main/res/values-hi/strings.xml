@@ -115,11 +115,13 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
     <string name="taffy_appearance_language_english_note">TaffyGo के अपने शब्द English में</string>
     <string name="taffy_appearance_language_hindi">हिन्दी</string>
     <string name="taffy_appearance_language_hindi_note">TaffyGo के अपने शब्द हिन्दी में</string>
+    <string name="taffy_appearance_language_russian">Русский</string>
+    <string name="taffy_appearance_language_russian_note">TaffyGo के अपने शब्द रूसी में</string>
     <string name="taffy_appearance_language_footnote">यह चुनाव TaffyGo के अपने शब्दों का है। यह वेब पेजों का अनुवाद नहीं करता।</string>
     <string name="taffy_appearance_country_change">देश चुनें</string>
     <string name="taffy_appearance_country_note">खोज, कीमतें और इकाइयाँ इसके अनुसार होंगी।</string>
     <string name="taffy_appearance_country_picker_title">देश या क्षेत्र</string>
-    <string name="taffy_appearance_country_picker_body">English और हिन्दी हर देश में उपलब्ध रहते हैं। यह चुनाव खोज, कीमतों और इकाइयों के लिए है।</string>
+    <string name="taffy_appearance_country_picker_body">English, हिन्दी और Русский हर देश में उपलब्ध रहते हैं। यह चुनाव खोज, कीमतों और इकाइयों के लिए है।</string>
     <string name="taffy_appearance_country_picker_search">देश या कोड खोजें</string>
     <string name="taffy_appearance_pair">%1$s, %2$s</string>
     <string name="taffy_appearance_text_size">टेक्स्ट का आकार</string>

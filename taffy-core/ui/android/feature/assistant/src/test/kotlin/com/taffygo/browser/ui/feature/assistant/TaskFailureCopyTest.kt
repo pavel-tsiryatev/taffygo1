@@ -204,7 +204,7 @@ class TaskFailureCopyTest {
         const val ROOT_MARKER = "taffy-core/build/components.toml"
         const val RES_PATH = "taffy-core/ui/android/feature/assistant/src/main/res"
         const val MINIMUM_STRINGS = 50
-        val LOCALES = listOf("values", "values-hi")
+        val LOCALES = listOf("values", "values-hi", "values-ru")
         val STRING = Regex("""<string name="([a-z0-9_]+)"[^>]*>(.*?)</string>""", RegexOption.DOT_MATCHES_ALL)
 
         /** Resource id to name, read off the generated class the ids live on. */

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_settings_profiles_title">Профили</string>
+    <string name="taffy_settings_profiles_summary">Где хранятся ваши вкладки, история и данные Taffy</string>
+    <string name="taffy_profiles_title">Профили</string>
+    <string name="taffy_profiles_explanation">В этом профиле на устройстве хранятся ваши вкладки, история, данные сайтов, настройки, сохранённые входы, задачи Taffy и рабочие пространства.</string>
+    <string name="taffy_profiles_loading">Загрузка профилей</string>
+    <string name="taffy_profiles_unavailable_title">Профили недоступны</string>
+    <string name="taffy_profiles_unavailable_body">TaffyGo не удалось прочитать профили браузера на этом устройстве. Текущий профиль не изменился.</string>
+    <string name="taffy_profiles_try_again">Попробовать снова</string>
+    <string name="taffy_profiles_active">Текущий профиль</string>
+    <string name="taffy_profiles_row_active">%1$s, текущий профиль</string>
+    <string name="taffy_profiles_unused">Не используется</string>
+    <string name="taffy_profiles_row_unused">%1$s, не используется</string>
+    <plurals name="taffy_profiles_active_workspaces">
+        <item quantity="one">Текущий профиль · %1$d рабочее пространство</item>
+        <item quantity="few">Текущий профиль · %1$d рабочих пространства</item>
+        <item quantity="many">Текущий профиль · %1$d рабочих пространств</item>
+        <item quantity="other">Текущий профиль · %1$d рабочего пространства</item>
+    </plurals>
+    <plurals name="taffy_profiles_row_active_workspaces">
+        <item quantity="one">%1$s, текущий профиль, %2$d рабочее пространство</item>
+        <item quantity="few">%1$s, текущий профиль, %2$d рабочих пространства</item>
+        <item quantity="many">%1$s, текущий профиль, %2$d рабочих пространств</item>
+        <item quantity="other">%1$s, текущий профиль, %2$d рабочего пространства</item>
+    </plurals>
+    <string name="taffy_profiles_delete_description">Удалить %1$s</string>
+    <string name="taffy_profiles_delete_title">Удалить %1$s?</string>
+    <string name="taffy_profiles_delete_body">С устройства будут безвозвратно удалены вкладки, история, данные сайтов, настройки, сохранённые входы, задачи Taffy и все рабочие пространства этого профиля. Сохранённые вами экспортированные файлы не затрагиваются. Это действие нельзя отменить.</string>
+    <string name="taffy_profiles_delete">Удалить профиль</string>
+    <string name="taffy_profiles_keep">Оставить профиль</string>
+    <string name="taffy_profiles_deleting">Удаление профиля…</string>
+    <string name="taffy_profiles_dismiss_error">Закрыть</string>
+    <string name="taffy_profiles_error_name">Введите название длиной от 1 до 40 видимых символов.</string>
+    <string name="taffy_profiles_error_limit">На этом устройстве уже максимальное число профилей — восемь.</string>
+    <string name="taffy_profiles_error_duplicate">Профиль с таким названием уже есть.</string>
+    <string name="taffy_profiles_error_missing">Этого профиля больше нет.</string>
+    <string name="taffy_profiles_error_active">Прежде чем удалить профиль, переключитесь на другой.</string>
+    <string name="taffy_profiles_error_last">Последний профиль удалить нельзя.</string>
+    <string name="taffy_profiles_error_in_use">Закройте все окна этого профиля, включая приватные, и попробуйте снова.</string>
+    <string name="taffy_profiles_error_busy">Другое изменение профилей ещё не завершено.</string>
+    <string name="taffy_profiles_error_private">В приватном режиме профили изменять нельзя.</string>
+    <string name="taffy_profiles_error_failed">TaffyGo не удалось изменить профили. Текущий профиль не изменился.</string>
+    <string name="taffy_settings_backup_title">Резервная копия</string>
+    <string name="taffy_settings_backup_summary">Сохраните данные в зашифрованный файл или проверьте существующую копию</string>
+</resources>

@@ -228,17 +228,19 @@ private fun languageName(language: AppLanguage) = when (language) {
     AppLanguage.SYSTEM -> R.string.taffy_appearance_language_system
     AppLanguage.ENGLISH -> R.string.taffy_appearance_language_english
     AppLanguage.HINDI -> R.string.taffy_appearance_language_hindi
+    AppLanguage.RUSSIAN -> R.string.taffy_appearance_language_russian
 }
 
 private fun languageNote(language: AppLanguage) = when (language) {
     AppLanguage.SYSTEM -> R.string.taffy_appearance_language_system_note
     AppLanguage.ENGLISH -> R.string.taffy_appearance_language_english_note
     AppLanguage.HINDI -> R.string.taffy_appearance_language_hindi_note
+    AppLanguage.RUSSIAN -> R.string.taffy_appearance_language_russian_note
 }
 
 private fun languageGlyph(language: AppLanguage): ImageVector = when (language) {
     AppLanguage.SYSTEM -> TaffyIcon.GlobeSimple
-    AppLanguage.ENGLISH, AppLanguage.HINDI -> TaffyIcon.Translate
+    AppLanguage.ENGLISH, AppLanguage.HINDI, AppLanguage.RUSSIAN -> TaffyIcon.Translate
 }
 
 private val LanguageGlyphSize = 20.dp

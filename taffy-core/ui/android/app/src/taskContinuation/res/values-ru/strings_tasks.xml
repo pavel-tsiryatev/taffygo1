@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_task_notification_channel_name">Задачи Taffy</string>
+    <string name="taffy_task_notification_channel_description">Ход выполнения и управление задачами, которые вы поручили Taffy.</string>
+    <string name="taffy_task_notification_active_title">Taffy работает</string>
+    <string name="taffy_task_notification_active_body">Здесь можно приостановить или остановить работу.</string>
+    <string name="taffy_task_notification_waiting_title">Taffy ждёт вас</string>
+    <string name="taffy_task_notification_waiting_body">Откройте TaffyGo, чтобы продолжить.</string>
+    <string name="taffy_task_notification_paused_title">Задача приостановлена</string>
+    <string name="taffy_task_notification_paused_body">Продолжите или остановите, когда будете готовы.</string>
+    <string name="taffy_task_notification_pause">Пауза</string>
+    <string name="taffy_task_notification_resume">Продолжить</string>
+    <string name="taffy_task_notification_stop">Остановить</string>
+    <string name="taffy_task_notification_public_title">Задача TaffyGo</string>
+    <string name="taffy_task_notification_public_body">Подробности задачи скрыты</string>
+</resources>

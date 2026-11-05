@@ -9,11 +9,13 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 <!--
   The locales the UI layer ships. English is the default res/values table;
-  Hindi is offered in every country because values-hi exists. Android 13
+  Hindi and Russian are offered in every country because values-hi and
+  values-ru exist. Android 13
   reads only this static list. Android 14+ may receive the same list from
   the browser Activity, never a country-narrowed English-only override.
 -->
 <locale-config xmlns:android="http://schemas.android.com/apk/res/android">
     <locale android:name="en"/>
     <locale android:name="hi"/>
+    <locale android:name="ru"/>
 </locale-config>

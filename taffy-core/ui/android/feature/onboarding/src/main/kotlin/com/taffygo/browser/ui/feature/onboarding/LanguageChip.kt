@@ -60,6 +60,7 @@ internal fun LanguageChip(
     val languageName = taffyString(
         when (catalogLanguage) {
             AppLanguage.HINDI -> R.string.taffy_language_chip_hindi
+            AppLanguage.RUSSIAN -> R.string.taffy_language_chip_russian
             AppLanguage.ENGLISH, AppLanguage.SYSTEM -> R.string.taffy_language_chip_english
         },
     )

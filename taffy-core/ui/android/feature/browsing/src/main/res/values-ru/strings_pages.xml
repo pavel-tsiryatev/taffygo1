@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_pages_history_title">История</string>
+    <string name="taffy_pages_history_search">Поиск в истории</string>
+    <string name="taffy_pages_history_clear">Очистить</string>
+    <string name="taffy_pages_history_caption">Страниц, которые Taffy открывал для задач, нет в истории.</string>
+    <string name="taffy_pages_history_empty_title">На этом телефоне пока нет истории.</string>
+    <string name="taffy_pages_history_empty_body">Страниц, которые Taffy открывал для задач, нет в истории.</string>
+    <string name="taffy_pages_history_no_matches_title">Ничего не найдено.</string>
+    <string name="taffy_pages_history_no_matches_body">В истории ничего не найдено по этому запросу.</string>
+    <string name="taffy_pages_history_unavailable_title">История сейчас недоступна.</string>
+    <string name="taffy_pages_history_unavailable_body">У TaffyGo нет списка посещений, и он не будет его выдумывать.</string>
+    <string name="taffy_pages_history_loading">Загрузка истории</string>
+    <string name="taffy_pages_history_today">Сегодня</string>
+    <string name="taffy_pages_history_yesterday">Вчера</string>
+    <string name="taffy_pages_history_delete">Удалить из истории</string>
+    <string name="taffy_pages_history_delete_confirm_title">Удалить страницу из истории?</string>
+    <string name="taffy_pages_history_delete_confirm_body">%1$s, %2$s. Посещение будет удалено только на этом телефоне.</string>
+    <string name="taffy_pages_history_row_description">%1$s, %2$s, %3$s. Открывает эту страницу.</string>
+    <string name="taffy_pages_history_supporting">%1$s · %2$s</string>
+    <string name="taffy_pages_bookmarks_title">Закладки</string>
+    <string name="taffy_pages_bookmarks_search">Поиск в закладках</string>
+    <string name="taffy_pages_bookmarks_import">Импорт</string>
+    <string name="taffy_pages_bookmarks_export">Экспорт</string>
+    <string name="taffy_pages_bookmarks_imported">Импорт завершён. Добавлено: %1$d; уже было: %2$d; не поддерживается: %3$d.</string>
+    <string name="taffy_pages_bookmarks_exported">Закладки экспортированы.</string>
+    <string name="taffy_pages_bookmarks_transfer_failed">Не удалось прочитать или записать файл закладок.</string>
+    <string name="taffy_pages_bookmarks_empty_title">Закладок пока нет.</string>
+    <string name="taffy_pages_bookmarks_empty_body">Отметьте страницу звёздочкой: «Этот сайт» → «Сохранить страницу». Закладки — это отмеченные вами страницы, а не Библиотека и не Память.</string>
+    <string name="taffy_pages_bookmarks_no_matches_title">Ничего не найдено.</string>
+    <string name="taffy_pages_bookmarks_no_matches_body">В закладках ничего не найдено по этому запросу.</string>
+    <string name="taffy_pages_bookmarks_unavailable_title">Закладки сейчас недоступны.</string>
+    <string name="taffy_pages_bookmarks_unavailable_body">У TaffyGo нет списка закладок, и он не будет его выдумывать.</string>
+    <string name="taffy_pages_bookmarks_loading">Загрузка закладок</string>
+    <string name="taffy_pages_bookmarks_folder_all">Все</string>
+    <string name="taffy_pages_bookmarks_folder_description">%1$s. Показывает закладки в этой папке.</string>
+    <string name="taffy_pages_bookmarks_delete">Удалить закладку</string>
+    <string name="taffy_pages_bookmarks_edit">Изменить закладку</string>
+    <string name="taffy_pages_bookmarks_delete_confirm_title">Удалить эту закладку?</string>
+    <string name="taffy_pages_bookmarks_delete_confirm_body">%1$s, %2$s. Звёздочка будет снята только на этом телефоне.</string>
+    <string name="taffy_pages_bookmarks_row_description">%1$s, %2$s. Открывает эту страницу.</string>
+    <string name="taffy_pages_bookmarks_edit_title">Изменить закладку</string>
+    <string name="taffy_pages_bookmarks_edit_name">Название</string>
+    <string name="taffy_pages_bookmarks_edit_folder">Папка</string>
+    <string name="taffy_pages_bookmarks_save">Сохранить</string>
+    <string name="taffy_pages_remove">Удалить</string>
+    <string name="taffy_pages_cancel">Отмена</string>
+</resources>

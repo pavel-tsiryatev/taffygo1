@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_downloads_title">Загрузки</string>
+    <string name="taffy_downloads_tab_yours">Ваши</string>
+    <string name="taffy_downloads_tab_taffys">Taffy</string>
+    <string name="taffy_downloads_tabs_description">Какие загрузки показывать</string>
+    <string name="taffy_downloads_search">Поиск по именам файлов и сайтам</string>
+    <string name="taffy_downloads_search_clear">Очистить поиск загрузок</string>
+    <string name="taffy_downloads_filter_label">Показать</string>
+    <string name="taffy_downloads_filter_all">Все</string>
+    <string name="taffy_downloads_filter_active">Активные</string>
+    <string name="taffy_downloads_filter_complete">Сохранённые</string>
+    <string name="taffy_downloads_filter_failed">С ошибками</string>
+    <string name="taffy_downloads_sort_label">Сортировка</string>
+    <string name="taffy_downloads_sort_newest">Сначала новые</string>
+    <string name="taffy_downloads_sort_name">По имени</string>
+    <string name="taffy_downloads_sort_largest">Сначала большие</string>
+    <string name="taffy_downloads_sort_source">По сайту</string>
+    <string name="taffy_downloads_group_label">Группировка</string>
+    <string name="taffy_downloads_group_none">Без группировки</string>
+    <string name="taffy_downloads_group_status">По состоянию</string>
+    <string name="taffy_downloads_group_type">По типу файла</string>
+    <string name="taffy_downloads_group_source">По сайту</string>
+    <string name="taffy_downloads_status_loading">Загрузка списка загрузок профиля</string>
+    <string name="taffy_downloads_status_unavailable">Полный список загрузок профиля недоступен</string>
+    <plurals name="taffy_downloads_status_limited">
+        <item quantity="one">Показана %1$d последняя загрузка. Могут быть и более старые.</item>
+        <item quantity="few">Показаны %1$d последние загрузки. Могут быть и более старые.</item>
+        <item quantity="many">Показаны %1$d последних загрузок. Могут быть и более старые.</item>
+        <item quantity="other">Показаны %1$d последней загрузки. Могут быть и более старые.</item>
+    </plurals>
+    <plurals name="taffy_downloads_status_count">
+        <item quantity="one">Показано %1$d из %2$d загрузки</item>
+        <item quantity="few">Показано %1$d из %2$d загрузок</item>
+        <item quantity="many">Показано %1$d из %2$d загрузок</item>
+        <item quantity="other">Показано %1$d из %2$d загрузки</item>
+    </plurals>
+    <string name="taffy_downloads_loading_title">Загрузка списка</string>
+    <string name="taffy_downloads_loading_body">TaffyGo читает список загрузок этого профиля.</string>
+    <string name="taffy_downloads_unavailable_title">Загрузки недоступны</string>
+    <string name="taffy_downloads_unavailable_body">TaffyGo не удалось прочитать список загрузок профиля. Ваши файлы и активные загрузки не изменились.</string>
+    <string name="taffy_downloads_empty_title">Загрузок нет</string>
+    <string name="taffy_downloads_empty_body">Скачанные файлы сохраняются на устройстве и появляются здесь.</string>
+    <string name="taffy_downloads_no_matches_title">Подходящих загрузок нет</string>
+    <string name="taffy_downloads_no_matches_body">Измените поиск, фильтр или группировку, чтобы увидеть другие файлы.</string>
+    <string name="taffy_downloads_action_unavailable">Это действие для загрузки больше недоступно.</string>
+    <string name="taffy_downloads_dismiss">Закрыть</string>
+    <string name="taffy_downloads_pause">Пауза</string>
+    <string name="taffy_downloads_resume">Продолжить</string>
+    <string name="taffy_downloads_cancel">Отменить загрузку</string>
+    <string name="taffy_downloads_open">Открыть</string>
+    <string name="taffy_downloads_share">Поделиться</string>
+    <string name="taffy_downloads_remove">Удалить</string>
+    <string name="taffy_downloads_action_description">%1$s %2$s</string>
+    <string name="taffy_downloads_keep">Оставить</string>
+    <string name="taffy_downloads_cancel_confirm_title">Отменить загрузку?</string>
+    <string name="taffy_downloads_cancel_confirm_body">Остановить скачивание %1$s? Продолжить можно будет, только если это разрешат сайт и браузер.</string>
+    <string name="taffy_downloads_remove_confirm_title">Удалить загрузку?</string>
+    <string name="taffy_downloads_remove_confirm_body">Удалить %1$s и скачанный файл из этого профиля? Здесь это действие нельзя отменить.</string>
+    <string name="taffy_downloads_progress">%1$d%%</string>
+    <string name="taffy_downloads_progress_unknown">Размер неизвестен</string>
+    <string name="taffy_downloads_supporting">%1$s · %2$s</string>
+    <string name="taffy_downloads_description">%1$s, с сайта %2$s, %3$s, %4$s</string>
+    <string name="taffy_downloads_source_unknown">Неизвестный сайт</string>
+    <string name="taffy_downloads_type_documents">Документы</string>
+    <string name="taffy_downloads_type_images">Изображения</string>
+    <string name="taffy_downloads_type_audio">Аудио</string>
+    <string name="taffy_downloads_type_video">Видео</string>
+    <string name="taffy_downloads_type_archives">Архивы</string>
+    <string name="taffy_downloads_type_other">Другие файлы</string>
+    <string name="taffy_parts_empty_title">Отдельных компонентов нет</string>
+    <string name="taffy_parts_empty_body">В эту версию TaffyGo встроено всё необходимое.</string>
+    <string name="taffy_parts_unsupported_title">Для этого устройства ничего нет</string>
+    <string name="taffy_parts_unsupported_body">Для устройств этого типа компоненты не опубликованы, поэтому Taffy ничего не будет скачивать.</string>
+    <string name="taffy_parts_purpose_python_library">Библиотека Python</string>
+    <string name="taffy_parts_purpose_python_packages">Дополнительные пакеты Python</string>
+    <string name="taffy_parts_purpose_model">Модель на устройстве</string>
+    <string name="taffy_parts_purpose_model_tokenizer">Токенизатор модели на устройстве</string>
+    <string name="taffy_parts_purpose_block_list">Список рекламы и трекеров</string>
+    <string name="taffy_parts_purpose_country_flags">Флаги стран</string>
+    <string name="taffy_parts_purpose_start_scenes">Оформление стартовой страницы</string>
+    <string name="taffy_parts_state_ready">Готово</string>
+    <string name="taffy_parts_state_checking">Проверка</string>
+    <string name="taffy_parts_state_downloading">Скачивание</string>
+    <string name="taffy_parts_state_missing">Ожидание</string>
+    <string name="taffy_parts_state_not_needed">Пока не нужно</string>
+    <string name="taffy_parts_hold_not_available">Недоступно для этого устройства</string>
+    <string name="taffy_parts_hold_not_published">Ещё не опубликовано</string>
+    <string name="taffy_parts_hold_attempts_spent">Не удалось завершить</string>
+    <string name="taffy_parts_hold_wrong_contents">Получены неверные данные</string>
+    <string name="taffy_parts_hold_connection">Ожидание подключения</string>
+    <string name="taffy_parts_hold_turned_off">Выключено</string>
+    <string name="taffy_parts_hold_product_defect">С этой частью Taffy что-то не так</string>
+    <string name="taffy_parts_supporting">%1$s · %2$s</string>
+    <string name="taffy_parts_description">%1$s, %2$s, %3$s</string>
+    <string name="taffy_parts_remove">Удалить</string>
+</resources>

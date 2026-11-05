@@ -46,7 +46,7 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
     <string name="taffy_language_region_region_label">क्षेत्र</string>
     <string name="taffy_language_region_region_note">खोज, कीमतें और इकाइयाँ इसके अनुसार होंगी।</string>
     <string name="taffy_language_region_region_all">सभी देश और क्षेत्र</string>
-    <string name="taffy_language_region_region_all_note">English और हिन्दी हर देश में उपलब्ध रहते हैं।</string>
+    <string name="taffy_language_region_region_all_note">English, हिन्दी और Русский हर देश में उपलब्ध रहते हैं।</string>
     <string name="taffy_language_region_language_label">ऐप की भाषा</string>
     <string name="taffy_language_region_system">सिस्टम के अनुसार</string>
     <string name="taffy_language_region_system_note">आपका फ़ोन जिस भाषा में है। अगर TaffyGo के पास उस भाषा के शब्द नहीं हैं तो English।</string>
@@ -54,16 +54,19 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
     <string name="taffy_language_region_english_note">TaffyGo के अपने शब्द English में</string>
     <string name="taffy_language_region_hindi">हिन्दी</string>
     <string name="taffy_language_region_hindi_note">TaffyGo के अपने शब्द हिन्दी में</string>
+    <string name="taffy_language_region_russian">Русский</string>
+    <string name="taffy_language_region_russian_note">TaffyGo के अपने शब्द रूसी में</string>
     <string name="taffy_language_region_search">भाषाएँ खोजें</string>
     <string name="taffy_language_region_no_matches">कोई मेल खाती भाषा नहीं</string>
     <string name="taffy_language_region_picker_title">देश या क्षेत्र</string>
-    <string name="taffy_language_region_picker_body">English और हिन्दी हर देश में उपलब्ध रहते हैं। यह चुनाव खोज, कीमतों और इकाइयों के लिए है।</string>
+    <string name="taffy_language_region_picker_body">English, हिन्दी और Русский हर देश में उपलब्ध रहते हैं। यह चुनाव खोज, कीमतों और इकाइयों के लिए है।</string>
     <string name="taffy_language_region_picker_search">देश या कोड खोजें</string>
     <string name="taffy_language_region_footnote">वेब पेजों का अनुवाद या रूप कभी नहीं बदला जाता — यह सिर्फ़ TaffyGo के अपने इंटरफ़ेस की बात है।</string>
     <string name="taffy_language_region_done">हो गया</string>
     <string name="taffy_language_chip_value">%1$s · %2$s</string>
     <string name="taffy_language_chip_english">English</string>
     <string name="taffy_language_chip_hindi">हिन्दी</string>
+    <string name="taffy_language_chip_russian">Русский</string>
     <string name="taffy_language_chip_description">क्षेत्र और भाषा: %1$s। इसे बदलें।</string>
 
     <!-- Screen SCR-004 — AI setup. -->

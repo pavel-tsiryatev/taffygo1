@@ -13,7 +13,9 @@ _coroutines = taffy_kotlin_coroutines_deps
 android_resources("shell_resources") {
   sources = [
     "java/res/values-hi/taffy_download_notification_strings.xml",
+    "java/res/values-ru/taffy_download_notification_strings.xml",
     "java/res/values-hi/taffy_profile_strings.xml",
+    "java/res/values-ru/taffy_profile_strings.xml",
     "java/res/values/taffy_download_notification_strings.xml",
     "java/res/values/taffy_profile_strings.xml",
   ]

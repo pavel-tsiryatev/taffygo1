@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_backup_keep_key">Сохраните ключ восстановления</string>
+    <string name="taffy_backup_enter_key">Введите ключ восстановления</string>
+    <string name="taffy_backup_key_warning">Этот ключ — единственный способ открыть резервную копию. TaffyGo не сможет восстановить его за вас. Прежде чем продолжить, сохраните его отдельно от этого устройства.</string>
+    <string name="taffy_backup_key_restore_help">Введите ключ полностью, включая TAFFY1- и каждый дефис. Файл будет проверен после того, как вы его выберете. Ввод ключа ничего не меняет в вашем профиле.</string>
+    <string name="taffy_backup_key_retained">Ключ сохранён отдельно от этого устройства</string>
+    <string name="taffy_backup_key_refused">Проверьте, что в ключе есть все группы символов и дефисы. Ничего не изменено.</string>
+    <string name="taffy_backup_key_continue">Продолжить</string>
+    <string name="taffy_backup_key_cancel">Отмена</string>
+    <string name="taffy_backup_title">Резервная копия</string>
+    <string name="taffy_backup_explanation">Выберите, что сохранить в зашифрованный файл. Место для сохранения выбираете вы. Храните ключ восстановления отдельно: без него файл не открыть.</string>
+    <string name="taffy_backup_exclusions">Закладки, внешний вид браузера и выбор языка пока не сохраняются. В резервную копию никогда не попадают пароли, входы в аккаунты, ключи провайдеров, история просмотров, скачанные файлы и приватные вкладки.</string>
+    <string name="taffy_backup_content_taffy">Настройки Taffy</string>
+    <string name="taffy_backup_content_workspaces">Сохранённые рабочие пространства</string>
+    <string name="taffy_backup_content_library">Библиотека</string>
+    <string name="taffy_backup_content_memory">Память</string>
+    <string name="taffy_backup_content_skills">Ваши навыки</string>
+    <string name="taffy_backup_content_learned">Шаги, которые выучил Taffy</string>
+    <string name="taffy_backup_create">Создать резервную копию</string>
+    <string name="taffy_backup_check">Проверить резервную копию</string>
+    <string name="taffy_backup_check_help">Вы можете проверить существующий файл с помощью ключа восстановления, не восстанавливая его. Проверка не меняет ваш профиль.</string>
+    <string name="taffy_backup_waiting_key">Ожидание выбора ключа восстановления…</string>
+    <string name="taffy_backup_preparing">Подготовка зашифрованной резервной копии…</string>
+    <string name="taffy_backup_waiting_document">Чтобы продолжить, выберите файл в Android.</string>
+    <string name="taffy_backup_writing">Сохранение зашифрованного файла и проверка сохранённой копии…</string>
+    <string name="taffy_backup_checking">Проверка файла с помощью ключа восстановления…</string>
+    <string name="taffy_backup_saved">Резервная копия сохранена, и сохранённая копия проверена вашим ключом. Храните ключ отдельно от файла.</string>
+    <string name="taffy_backup_incomplete">Не удалось проверить сохранённую копию. Возможно, она неполная. Не полагайтесь на неё как на резервную копию. Проверьте файл там, где вы его сохранили, прежде чем оставить или удалить его.</string>
+    <string name="taffy_backup_checked_only">Файл и ключ восстановления проверены. В вашем профиле ничего не восстановлено и не изменено.</string>
+    <string name="taffy_backup_export_refused">TaffyGo не удалось создать резервную копию выбранного. Проверенная резервная копия не сохранена.</string>
+    <string name="taffy_backup_import_refused">Возможно, ключ не подходит, или файл повреждён либо не поддерживается. Ничего не восстановлено.</string>
+    <string name="taffy_backup_unavailable">Резервное копирование недоступно в этом окне, или не удалось открыть выбранный файл. Проверенного результата нет.</string>
+    <string name="taffy_backup_cancelled">Резервное копирование остановлено. Если файл был создан, он может быть неполным. Проверьте его, прежде чем оставить.</string>
+    <string name="taffy_backup_dismiss">Закрыть</string>
+</resources>

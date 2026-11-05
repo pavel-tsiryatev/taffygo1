@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_welcome_badge">БРАУЗЕР С ВСТРОЕННЫМ AI</string>
+    <string name="taffy_welcome_headline">Полноценный браузер. Taffy — только когда вы попросите.</string>
+    <string name="taffy_welcome_body">Реклама и трекеры блокируются с первой же страницы. Taffy ждёт на нижней панели и ничего не делает, пока вы не попросите, — а когда делает, показывает каждый источник.</string>
+    <string name="taffy_welcome_promise">Без вашего запроса ничего не покидает телефон.</string>
+    <string name="taffy_welcome_start">Начать</string>
+    <string name="taffy_welcome_footnote">С Taffy можно познакомиться позже — или никогда.</string>
+    <string name="taffy_welcome_theme_label">Оформление</string>
+    <string name="taffy_welcome_theme_light">Светлое</string>
+    <string name="taffy_welcome_theme_dark">Тёмное</string>
+    <string name="taffy_showcase_sound_turn_on">Включить звук в демонстрации</string>
+    <string name="taffy_showcase_sound_turn_off">Выключить звук в демонстрации</string>
+    <string name="taffy_showcase_sound_state_on">Звук в демонстрации включён</string>
+    <string name="taffy_showcase_sound_state_off">Звук в демонстрации выключен</string>
+    <string name="taffy_showcase_form_title">Заполняйте формы вместе</string>
+    <string name="taffy_showcase_form_question">Заполни со мной этот опрос. Спроси, прежде чем указывать сохранённые данные</string>
+    <string name="taffy_showcase_form_video_description">Пошаговая анимация: Taffy просит разрешения, заполняет опрос и спрашивает перед отправкой</string>
+    <string name="taffy_showcase_weekly_review_title">Итоги вашей недели</string>
+    <string name="taffy_showcase_weekly_review_question">Подведи итоги моей недели в браузере и предложи одно полезное ограничение</string>
+    <string name="taffy_showcase_weekly_review_video_description">Пошаговая анимация: заблокированная реклама, потраченное время и недельный AI-обзор, который спрашивает перед установкой ограничения</string>
+    <string name="taffy_showcase_task_title">Поручите Taffy задачу</string>
+    <string name="taffy_showcase_task_question">Прочитай эти 12 вкладок и сделай отчёт-инфографику</string>
+    <string name="taffy_showcase_job_video_description">Пошаговая анимация: Taffy читает 12 вкладок, сохраняет ссылки на источники и экспортирует инфографику в разных форматах</string>
+    <string name="taffy_showcase_page_tools_title">Сохраняйте самое ценное</string>
+    <string name="taffy_showcase_page_tools_question">Найди изображения и видео на этой странице. Кратко перескажи её, а потом покажи «Привет» на нескольких языках</string>
+    <string name="taffy_showcase_page_tools_video_description">Пошаговая анимация: Taffy извлекает медиафайлы со страницы, спрашивает перед скачиванием, кратко пересказывает страницу и показывает «Привет» на нескольких языках</string>
+    <string name="taffy_language_region_title">Язык и регион</string>
+    <string name="taffy_language_region_region_label">Регион</string>
+    <string name="taffy_language_region_region_note">От него зависят поиск, цены и единицы измерения.</string>
+    <string name="taffy_language_region_region_all">Все страны и регионы</string>
+    <string name="taffy_language_region_region_all_note">Английский, хинди и русский доступны в любой стране.</string>
+    <string name="taffy_language_region_language_label">Язык приложения</string>
+    <string name="taffy_language_region_system">Как в системе</string>
+    <string name="taffy_language_region_system_note">Язык, выбранный на телефоне. Английский, если у TaffyGo нет перевода на этот язык.</string>
+    <string name="taffy_language_region_english">English</string>
+    <string name="taffy_language_region_english_note">Интерфейс TaffyGo на английском</string>
+    <string name="taffy_language_region_hindi">हिन्दी</string>
+    <string name="taffy_language_region_hindi_note">Интерфейс TaffyGo на хинди</string>
+    <string name="taffy_language_region_russian">Русский</string>
+    <string name="taffy_language_region_russian_note">Интерфейс TaffyGo на русском</string>
+    <string name="taffy_language_region_search">Поиск языков</string>
+    <string name="taffy_language_region_no_matches">Подходящих языков нет</string>
+    <string name="taffy_language_region_picker_title">Страна или регион</string>
+    <string name="taffy_language_region_picker_body">Английский, хинди и русский доступны в любой стране. Этот выбор влияет на поиск, цены и единицы измерения.</string>
+    <string name="taffy_language_region_picker_search">Поиск стран или кодов</string>
+    <string name="taffy_language_region_footnote">Веб-страницы никогда не переводятся и не меняют оформление — это касается только интерфейса TaffyGo.</string>
+    <string name="taffy_language_region_done">Готово</string>
+    <string name="taffy_language_chip_value">%1$s · %2$s</string>
+    <string name="taffy_language_chip_english">English</string>
+    <string name="taffy_language_chip_hindi">हिन्दी</string>
+    <string name="taffy_language_chip_russian">Русский</string>
+    <string name="taffy_language_chip_description">Регион и язык: %1$s. Изменить.</string>
+    <string name="taffy_ai_setup_title">Как будет думать Taffy?</string>
+    <string name="taffy_ai_setup_body">Подключите своего провайдера сейчас или настройте это позже.</string>
+    <string name="taffy_ai_setup_routes_label">Куда отправляются ваши запросы</string>
+    <plurals name="taffy_ai_setup_routes_count">
+        <item quantity="one">%1$d способ</item>
+        <item quantity="few">%1$d способа</item>
+        <item quantity="many">%1$d способов</item>
+        <item quantity="other">%1$d способа</item>
+    </plurals>
+    <string name="taffy_ai_setup_own_key_title">Свой ключ</string>
+    <string name="taffy_ai_setup_own_key_cost">Вы платите своему провайдеру</string>
+    <string name="taffy_ai_setup_own_key_body">Сохраните ключ провайдера на следующем экране. Он останется на этом телефоне.</string>
+    <string name="taffy_ai_setup_assure_compact">Пароли, платёжные данные и одноразовые коды никогда не передаются модели.</string>
+    <string name="taffy_ai_setup_continue">Продолжить</string>
+    <string name="taffy_ai_setup_choose_provider">Выбрать провайдера</string>
+    <string name="taffy_ai_setup_set_up_later">Настроить позже</string>
+    <string name="taffy_ai_setup_change_later">Это можно изменить в любой момент в настройках.</string>
+    <string name="taffy_onboarding_continue">Продолжить</string>
+    <string name="taffy_get_started_headline">Сделайте его своим</string>
+    <string name="taffy_get_started_body">Имя и картинка — если хотите. И то и другое остаётся на этом телефоне.</string>
+    <string name="taffy_get_started_name_label">Ваше имя</string>
+    <string name="taffy_get_started_name_placeholder">Необязательно</string>
+    <string name="taffy_get_started_face_label">Картинка</string>
+    <string name="taffy_get_started_face_choice">Картинка %1$d из %2$d</string>
+    <string name="taffy_get_started_promise_account">Без аккаунта и без входа.</string>
+    <string name="taffy_get_started_promise_servers">У TaffyGo нет собственных серверов.</string>
+    <string name="taffy_get_started_promise_key">Taffy использует ваш AI-ключ — или вообще никакого.</string>
+    <string name="taffy_get_started_data_link">Как TaffyGo обращается с вашими данными</string>
+    <string name="taffy_get_started_data_title">Как TaffyGo обращается с вашими данными</string>
+    <string name="taffy_get_started_data_device">Ваше имя, картинка, история, закладки и всё, что запоминает Taffy, хранятся на этом телефоне. Аккаунта нет, и нет сервера TaffyGo, куда их можно было бы отправить.</string>
+    <string name="taffy_get_started_data_provider">Taffy обращается к AI-провайдеру, только когда вы дали ему ключ или вошли в аккаунт с подпиской, за которую уже платите. Эти запросы уходят только этому провайдеру и больше никому.</string>
+    <string name="taffy_get_started_data_sites">Сайты видят то же, что показывает им любой браузер. Реклама и трекеры блокируются ещё до загрузки.</string>
+    <string name="taffy_get_started_version">Версия %1$s</string>
+    <string name="taffy_onboarding_pair">%1$s. %2$s</string>
+</resources>

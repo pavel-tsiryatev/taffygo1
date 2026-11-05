@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_task_state_running">Выполняется</string>
+    <string name="taffy_task_state_waiting_for_you">Ждёт вас</string>
+    <string name="taffy_task_state_paused">Приостановлена</string>
+    <string name="taffy_task_state_done">Готово</string>
+    <string name="taffy_task_state_partly_done">Выполнена частично</string>
+    <string name="taffy_task_state_stopped">Остановлена</string>
+    <string name="taffy_task_state_failed">Не удалась</string>
+    <string name="taffy_download_state_running">Скачивается</string>
+    <string name="taffy_download_state_paused">Приостановлено</string>
+    <string name="taffy_download_state_complete">Сохранено</string>
+    <string name="taffy_download_state_failed">Не завершено</string>
+    <string name="taffy_mode_you_browse">Вы управляете</string>
+    <string name="taffy_mode_browse_together">Вместе</string>
+    <string name="taffy_mode_taffy_browses">Управляет Taffy</string>
+    <string name="taffy_control_pause">Пауза</string>
+    <string name="taffy_control_resume">Продолжить</string>
+    <string name="taffy_control_stop">Остановить</string>
+    <string name="taffy_control_take_over">Взять управление</string>
+    <string name="taffy_action_back">Назад</string>
+    <string name="taffy_address_pill_secure">Защищённое соединение</string>
+    <string name="taffy_address_pill_insecure">Соединение не защищено</string>
+    <string name="taffy_address_pill_reload">Обновить страницу</string>
+    <string name="taffy_address_pill_stop">Остановить загрузку</string>
+    <string name="taffy_address_field_confirm">Использовать этот вариант</string>
+    <plurals name="taffy_blocked_trackers">
+        <item quantity="one">Заблокирован %1$d трекер</item>
+        <item quantity="few">Заблокировано %1$d трекера</item>
+        <item quantity="many">Заблокировано %1$d трекеров</item>
+        <item quantity="other">Заблокировано %1$d трекера</item>
+    </plurals>
+    <string name="taffy_assistant_ask_taffy">Спросить Taffy</string>
+    <string name="taffy_assistant_review">Проверить</string>
+    <string name="taffy_assistant_resume">Продолжить</string>
+    <string name="taffy_accessible_pair">%1$s, %2$s</string>
+    <string name="taffy_fact_kind_from_the_page">со страницы</string>
+    <string name="taffy_fact_kind_summarized">кратко</string>
+    <string name="taffy_fact_kind_inference">вывод Taffy</string>
+    <string name="taffy_fact_kind_you_entered">введено вами</string>
+    <string name="taffy_fact_kind_conflict">источники расходятся</string>
+    <string name="taffy_fact_kind_needs_a_new_source">нужен новый источник</string>
+    <string name="taffy_search_clear">Очистить поиск</string>
+    <string name="taffy_flow_review_origin">С сайта %1$s</string>
+    <string name="taffy_flow_review_start">Начальная страница</string>
+    <string name="taffy_flow_review_steps">Шаги для запоминания</string>
+    <string name="taffy_flow_review_privacy">Сохраняются только эти шаги. Личные данные, одноразовые коды и ответы для проверки вы каждый раз вводите сами.</string>
+    <string name="taffy_flow_review_named_action">%1$s · %2$s</string>
+    <string name="taffy_flow_open">Открыть страницу</string>
+    <string name="taffy_flow_read">Прочитать страницу</string>
+    <string name="taffy_flow_find">Найти элемент на странице</string>
+    <string name="taffy_flow_choose">Выбрать элемент на странице</string>
+    <string name="taffy_flow_scroll">Прокрутить страницу</string>
+    <string name="taffy_flow_handover">Передать страницу вам и подождать, пока вы продолжите</string>
+    <string name="taffy_flow_inspect_form">Проверить форму</string>
+    <string name="taffy_flow_fill_form">Заполнить форму данными для этого запуска</string>
+    <string name="taffy_flow_submit_form">Отправить форму, если это разрешено</string>
+    <string name="taffy_flow_download">Скачать файл, если это разрешено</string>
+    <string name="taffy_flow_downloads">Проверить загрузки</string>
+    <string name="taffy_flow_pdf">Прочитать PDF</string>
+    <string name="taffy_flow_back">Назад</string>
+    <string name="taffy_flow_forward">Вперёд</string>
+    <string name="taffy_flow_reload">Обновить страницу</string>
+    <string name="taffy_flow_stop_loading">Остановить загрузку страницы</string>
+    <string name="taffy_flow_open_tab">Открыть вкладку</string>
+    <string name="taffy_flow_target_sign_in">Войти</string>
+    <string name="taffy_flow_target_sign_out">Выйти</string>
+    <string name="taffy_flow_target_search">Поиск</string>
+    <string name="taffy_flow_target_add_to_cart">В корзину</string>
+    <string name="taffy_flow_target_view_cart">Открыть корзину</string>
+    <string name="taffy_flow_target_checkout">Оформить заказ</string>
+    <string name="taffy_flow_target_continue">Продолжить</string>
+    <string name="taffy_flow_target_confirm">Подтвердить</string>
+    <string name="taffy_flow_target_cancel">Отмена</string>
+    <string name="taffy_flow_target_next_page">Следующая страница</string>
+    <string name="taffy_flow_target_download">Скачать</string>
+    <string name="taffy_flow_person_identity">Вы вводите номер документа.</string>
+    <string name="taffy_flow_person_verification">Вы проходите проверку.</string>
+    <string name="taffy_flow_person_code">Вы вводите одноразовый код.</string>
+    <string name="taffy_flow_person_details">Вы указываете запрошенные данные формы.</string>
+    <string name="taffy_flow_focus">Перейти к элементу страницы</string>
+    <string name="taffy_flow_link">Открыть ссылку</string>
+</resources>

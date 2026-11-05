@@ -349,6 +349,7 @@ android_resources("feature_onboarding_resources") {
 android_resources("task_continuation_resources") {
   sources = [
     "//taffy/ui/android/app/src/taskContinuation/res/values-hi/strings_tasks.xml",
+    "//taffy/ui/android/app/src/taskContinuation/res/values-ru/strings_tasks.xml",
     "//taffy/ui/android/app/src/taskContinuation/res/values/strings_tasks.xml",
     "//taffy/ui/android/app/src/taskContinuation/res/xml/taffy_data_extraction_rules.xml",
     "//taffy/ui/android/app/src/taskContinuation/res/xml/taffy_full_backup_content.xml",
@@ -396,8 +397,11 @@ taffy_dagger_library("feature_onboarding_java") {
 android_resources("backup_key_resources") {
   sources = [
     "//taffy/ui/android/app/src/backup/res/values-hi/strings_backup.xml",
+    "//taffy/ui/android/app/src/backup/res/values-ru/strings_backup.xml",
     "//taffy/ui/android/app/src/backup/res/values-hi/strings_backup_cleanup.xml",
+    "//taffy/ui/android/app/src/backup/res/values-ru/strings_backup_cleanup.xml",
     "//taffy/ui/android/app/src/backup/res/values-hi/strings_backup_restore.xml",
+    "//taffy/ui/android/app/src/backup/res/values-ru/strings_backup_restore.xml",
     "//taffy/ui/android/app/src/backup/res/values/strings_backup.xml",
     "//taffy/ui/android/app/src/backup/res/values/strings_backup_cleanup.xml",
     "//taffy/ui/android/app/src/backup/res/values/strings_backup_restore.xml",

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2026 Matterward Labs Private Limited.
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Machine-translated (ru), pending native review. -->
+<resources>
+    <string name="taffy_settings_taffy_title">Taffy</string>
+    <string name="taffy_settings_taffy_summary">Навыки и то, как говорит Taffy</string>
+    <string name="taffy_settings_privacy_title">Конфиденциальность</string>
+    <string name="taffy_settings_privacy_summary">Что хранится на этом телефоне</string>
+    <string name="taffy_settings_general_title">Общие</string>
+    <string name="taffy_settings_general_summary">Поисковая система и файлы</string>
+    <string name="taffy_settings_about_title">О приложении и помощь</string>
+    <string name="taffy_settings_about_summary">Версия и как с нами связаться</string>
+    <string name="taffy_settings_group_phone">Этот телефон</string>
+    <string name="taffy_settings_you_title">Вы</string>
+    <string name="taffy_settings_you_summary">Ваш профиль и то, что сохранено на этом телефоне</string>
+    <string name="taffy_settings_time_on_sites_title">Время на сайтах</string>
+    <string name="taffy_settings_time_on_sites_summary">Сколько времени браузер провёл на каждом сайте за эту неделю</string>
+    <string name="taffy_settings_memory_title">Память</string>
+    <string name="taffy_settings_memory_summary">Что Taffy помнит о вас</string>
+    <string name="taffy_settings_saved_sign_ins_title">Сохранённые входы</string>
+    <string name="taffy_settings_saved_sign_ins_summary">Пароли и ключи доступа, которые может подставлять браузер</string>
+    <string name="taffy_settings_saved_details_title">Сохранённые данные</string>
+    <string name="taffy_settings_saved_details_summary">Имя, адрес, почта и телефон для заполнения форм</string>
+    <string name="taffy_settings_what_happened_title">Что произошло</string>
+    <string name="taffy_settings_what_happened_summary">Итоги задач и статистика блокировки, без содержимого страниц</string>
+    <string name="taffy_settings_library_title">Библиотека</string>
+    <string name="taffy_settings_library_summary">То, что вы решили сохранить</string>
+    <string name="taffy_settings_personality_title">Как говорит Taffy</string>
+    <string name="taffy_settings_personality_summary">Характер — как пишет Taffy и насколько он осторожен</string>
+    <string name="taffy_settings_what_taffy_can_do_title">Что умеет Taffy</string>
+    <string name="taffy_settings_what_taffy_can_do_summary">Навыки на этом телефоне</string>
+</resources>
